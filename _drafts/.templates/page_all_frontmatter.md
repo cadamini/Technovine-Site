@@ -3,8 +3,8 @@ layout: page
 #
 # Content
 #
-subheadline: ""
 title: ""
+subheadline: ""
 teaser: ""
 categories:
   - 
