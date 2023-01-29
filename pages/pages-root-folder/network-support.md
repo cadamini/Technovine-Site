@@ -1,3 +1,0 @@
-# Technovine Solutions
-
-## Network Support
