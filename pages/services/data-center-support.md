@@ -26,6 +26,8 @@ homepage: false
 
 # Why is it important?
 
+__Data Centers__ are the fondation of many modern businesses; providing the infrastructure and resources necessary to save, process, and dispense data.
+
 
 
 
