@@ -25,12 +25,6 @@ homepage: false
 ---
 
 
-# Technovine Solutions
-
-
-
-### Who We Are
-
 We are skilled IT professionals who specialize in solving a range of problems 
 that our clients may face in the realm of IT.
 Through the utilization of hands-on support and state-of-the-art equipment.
