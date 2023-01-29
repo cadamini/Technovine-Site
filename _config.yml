@@ -42,7 +42,7 @@ urlimg: 'https://newspectrum.github.io/Technovine-Site/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: #"logo.png"
 
 # Plugins
 plugins:
@@ -207,7 +207,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-# disqus_shortname: 
+# disqus_shortname:
 
 
 #      _____
@@ -267,7 +267,7 @@ sass:
 
 asciidoctor-enabled: false
 asciidoctor:
-  description: 
+  description:
   attributes:
     source-highlighter: coderay
     coderay-css: style
