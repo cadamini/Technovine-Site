@@ -30,8 +30,7 @@ homepage: false
 
 A __CCTV Command Center__ is an essential component of any business; they provide real-time monitoring of multiple locations from one central hub. The security they supply is indispensable, allowing business' to have peace of mind knowing that their CCTV Command Center is working 24/7 to keep their employees, customers, and partners safe.
 
-So when something goes wrong it is of utmost importance to get the right __CCTV Command Center Support__ pr  technicians equipped with the tools needed to get your command center back online. Here at Technovine Solutions, we promise to bring you the necessary support to get the job done right the first time.
-
+So when something goes wrong it is of utmost importance to get the right __CCTV Command Center Support__ that allows  technicians equipped with the tools needed to get your __CCTV Command Center__ back online. 
 
 
 
