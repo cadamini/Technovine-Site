@@ -26,9 +26,11 @@ homepage: false
 
 
 
-## CCTV Command Center
+# Why is it Important?
 
-A CCTV Command Center is an essential component of any business; they provide real-time monitoring of multiple locations from one central hub. The security they supply is indispensable, so when something goes wrong it is of utmost importance to get the right technicians equipped with the tools needed to get your command center back online. Here at Technovine Solutions, we promise to bring you the necessary support to get the job done right the first time.
+A __CCTV Command Center__ is an essential component of any business; they provide real-time monitoring of multiple locations from one central hub. The security they supply is indispensable, allowing business' to have peace of mind knowing that their CCTV Command Center is working 24/7 to keep their employees, customers, and partners safe.
+
+So when something goes wrong it is of utmost importance to get the right __CCTV Command Center Support__ pr  technicians equipped with the tools needed to get your command center back online. Here at Technovine Solutions, we promise to bring you the necessary support to get the job done right the first time.
 
 
 
