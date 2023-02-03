@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: networking-connections-001.jpeg
+  image_fullwidth: "https://github.com/NewSpectrum/Technovine-Site/raw/82c5cf1292ca2fb8f6ca6c306372b32db7806de3/images/networking-connections-001.jpeg"
 widget1:
   title: "Blog & Portfolio"
   url: 'https://site.technovinesolutions.com/'
