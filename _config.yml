@@ -79,6 +79,7 @@ exclude:
     - vendor
     - _drafts/.templates/
     - _drafts/.AI-Generated/
+    - .samples/
 
 
 # The language setting is used in /includes/header.html for html-settings
