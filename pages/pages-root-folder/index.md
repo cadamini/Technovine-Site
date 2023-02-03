@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-permalink: "/"
+permalink: /index.html
 
 title: "Technovine Solutions | Home"
 subheadline: ""
