@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: # "/..."
+permalink: /point-of-service
 
 title: ""
 subheadline: ""
@@ -59,6 +59,6 @@ POS, kiosk, and ATM support is an important component for any bank, retail store
 
 AI TEXT:
 
-
+https://site.technovinesolutions.com
 
 /-->
