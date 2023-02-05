@@ -1,7 +1,6 @@
 ---
 layout: page
-permalink: # "/..."
-
+permalink: /services/cctv-services
 title: ""
 subheadline: ""
 tags:

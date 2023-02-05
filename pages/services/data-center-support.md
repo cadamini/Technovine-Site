@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: # "/..."
+permalink: /services/datacenters
 
 title: ""
 subheadline: ""
