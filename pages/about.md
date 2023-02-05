@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: # "/..."
+permalink: /about
 
 title: ""
 subheadline: ""

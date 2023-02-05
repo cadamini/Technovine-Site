@@ -2,12 +2,16 @@
   url: "/"
   side: left
 
+- title: "About"
+  url: "/about"
+  side: left
+
 - title: "Services"
-  url: "/services/"
+  url: "/services"
   side: left
   dropdown:
     - title: "All Services"
-      url: "/services/"
+      url: "/services"
     - title: "CCTV Services"
       url: "/services/cctv-services"
     - title: "Data Center Suppport"
@@ -21,7 +25,10 @@
     - title: "POS Services"
       url: "/services/point-of-service"
    
-    
+- title: "Contact"
+  url: "/contact"
+  side: left
+
 
 
 
