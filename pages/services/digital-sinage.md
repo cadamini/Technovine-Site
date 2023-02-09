@@ -4,8 +4,6 @@ permalink: /services/digital-sinage
 
 title: "Digital Signage"
 subheadline: ""
-tags:
-  - 
 
 header: yes
 header:
@@ -15,10 +13,11 @@ header:
     background-color: "hsla(43, 100%, 100%, 1.0)"
     title: # "Title Text"
     meta_title: # Enter later
-sidebar: top-left
+sidebar: left
+meta_title: # Enter later
 meta_description: # "Page Description"
-tags: 
-  -
+tags:
+  - 
 
 homepage: false
 ---

@@ -4,8 +4,6 @@ permalink: /services/point-of-service
 
 title: ""
 subheadline: ""
-tags:
-  - 
 
 header: yes
 header:
@@ -16,7 +14,10 @@ header:
     title: Point-of-Service Solutions
 
 sidebar: left
+meta_title: # Enter later
 meta_description: # "Page Description"
+tags:
+  - 
 
 homepage: false
 ---

@@ -4,8 +4,7 @@ permalink: /services/general-support
 
 title: "General Support"
 subheadline: ""
-tags:
-  - 
+
 
 header: yes
 header:
@@ -15,7 +14,7 @@ header:
     background-color: "hsla(43, 100%, 100%, 1.0)"
     title: # "Title Text"
 
-sidebar: top-left
+sidebar: left
 meta_title: # Enter later
 meta_description: # "Page Description"
 tags:

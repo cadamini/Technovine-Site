@@ -3,8 +3,6 @@ layout: page
 permalink: /services/cctv-services
 title: ""
 subheadline: ""
-tags:
-  - 
 
 header: yes
 header:
@@ -15,7 +13,10 @@ header:
     title: # "Title Text"
 
 sidebar: left
+meta_title: # Enter later
 meta_description: # "Page Description"
+tags:
+  - 
 
 homepage: false
 ---
