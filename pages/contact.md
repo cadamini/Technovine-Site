@@ -5,6 +5,20 @@ meta_title          : "Contact and use our contact form"
 subheadline         : "Contact Form"
 teaser              : "Get in touch with us? Use the contact form."
 permalink           : /contact
+
+# Header Image
+
+widget1:
+  title: "Contact Information"
+  url: ''
+  image: 
+  text: '' # HTML Code
+
+widget2:
+  title: "Find us on Social Media"
+  url: ''
+  image: 
+  text: '' # HTML Code
 ---
 
 # Contact

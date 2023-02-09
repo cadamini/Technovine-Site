@@ -4,22 +4,20 @@ permalink: /about
 
 title: ""
 subheadline: ""
-tags:
-  - 
 
 header: yes
 header:
     image_fullwidth: yes
     image: # "/path"
-    pattern: # "cover"
-    color: # "hsla(0, 0%, 10%, 1.0)"
+    color: # "hsla(0, 0%, 10%, 1.0)" (text)
     background-color: "hsla(43, 100%, 100%, 1.0)"
     title: # "Title Text"
-    caption: # "I have no idea yet"
-    caption_url: # "https://??"
 
-sidebar: left
+sidebar: top-left
+meta_title: # Enter later
 meta_description: # "Page Description"
+tags:
+  - 
 
 homepage: false
 ---
