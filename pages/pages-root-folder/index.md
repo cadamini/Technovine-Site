@@ -8,7 +8,7 @@ layout: frontpage
 permalink: /index.html
 
 header:
-  image_fullwidth: networking-connections-001.jpg
+  image_fullwidth: networking-connections-001.jpeg
 
 
 widget1:
