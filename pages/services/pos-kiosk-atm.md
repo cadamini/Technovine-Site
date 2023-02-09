@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/point-of-service
 
-title: ""
+title: "Point-of-service Solutions"
 subheadline: ""
 
 header: yes
