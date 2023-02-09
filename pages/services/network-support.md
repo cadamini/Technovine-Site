@@ -32,13 +32,13 @@ __Networking__ is a *crucial* part of any modern-day business- in Marketing, obv
 
 This is why having top-quality, reliable __Network Support__ is necessary for every company, big or small. Without a network that is both reliable and efficient, a company simply cannot communicate effectively with its employees, customers, partners, and potential audiences.
 
-__Network Support__ `{{ what is it? }}`. This includes making sure all __Networking Hardware__, __Software__, and other related dependencies are both up to date and functioning properly.
+__Network Support__ `[[ what is it? ]]`. This includes making sure all __Networking Hardware__, __Software__, and other related dependencies are both up to date and functioning properly.
 
 <details>
 <summary><h3 style="display:inline">What does <a href="URL">Network Maintenance</a> involve?</h3></summary>
 
 
-- `{{ Information about maintaining networks }}`
+- `[[ Information about maintaining networks ]]`
 
 </details>
 
