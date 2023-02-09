@@ -15,8 +15,11 @@ header:
     background-color: "hsla(43, 100%, 100%, 1.0)"
     title: # "Title Text"
 
-sidebar: left
+sidebar: top-left
+meta_title: # Enter later
 meta_description: # "Page Description"
+tags:
+  - 
 
 homepage: false
 ---

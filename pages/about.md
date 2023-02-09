@@ -2,7 +2,7 @@
 layout: page
 permalink: /about
 
-title: ""
+title: "About"
 subheadline: ""
 
 header: yes
