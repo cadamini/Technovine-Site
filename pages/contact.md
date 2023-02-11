@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/general-support
+permalink: /contact
 
 title: "Contact"
 subheadline: ""
