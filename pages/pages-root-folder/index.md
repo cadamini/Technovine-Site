@@ -13,17 +13,17 @@ header:
 
 widget1:
   title: "Our Services"
-  url: 'https://site.technovinesolutions.com/services'
+  url: '/services/'
   image: 
   text: ''
 widget2:
   title: "Who We Are"
-  url: 'https://site.technovinesolutions.com/about'
+  url: '/about/'
   image:
   text: ''
 widget3:
   title: "Contact"
-  url: 'https://site.technovinesolutions.com/contact'
+  url: '/contact/'
   image: 
   text: ''
 #
