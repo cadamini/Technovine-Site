@@ -1,5 +1,3 @@
-import 'replace-in-file';
-
 const replace = require('replace-in-file');
 const options = {
   files: './compress.txt',
