@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 permalink: /contact
 
 title: "Contact"
