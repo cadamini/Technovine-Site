@@ -45,4 +45,3 @@ homepage: true
 
 # Our Mission
 
-<ul></ul>
