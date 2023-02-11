@@ -15,17 +15,17 @@ widget1:
   title: "Our Services"
   url: '/services/'
   image: 
-  text: ''
+  text: 'View our Services'
 widget2:
   title: "Who We Are"
   url: '/about/'
   image:
-  text: ''
+  text: '[something basic]'
 widget3:
   title: "Contact"
   url: '/contact/'
   image: 
-  text: ''
+  text: 'Phone: NUM<br />Email: EMAIL' # takes HTML input
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -43,4 +43,6 @@ widget3:
 homepage: true
 ---
 
-[Homepage Paragraph]
+# Our Mission
+
+
