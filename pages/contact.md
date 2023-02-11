@@ -32,13 +32,13 @@ widget1:
   title: "Contact Information"
   url: ''
   image: 
-  text: '' # HTML Code
+  text: '<h3>Phone</h3> (713) 491-4415<br /> <h3>Email</h3> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li> <li>repairs@technvsolutions.com</li> </ul>' # HTML Code
 
 widget2:
   title: "Find us on Social Media"
   url: ''
   image: 
-  text: '' # HTML Code
+  text: '<a id="Facebook Icon Link" href="https://[site]"> <img id="Facebook Icon" src="https://simpleicons.org/icons/facebook.svg" alt="Mouse-Over Text" width="30px" height="auto" /> <br /> <a id="Instagram Icon Link" href="https://[site]"> <img id="Instagram Icon" src="https://simpleicons.org/icons/instagram.svg" alt="Mouse-Over Text" width="30px" height="auto" /> <br /> <a id="Twitter Icon Link" href="https://[site]"> <img id="Twitter Icon" src="https://simpleicons.org/icons/twitter.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </a>' # HTML Code
 ---
 
 # Contact
@@ -50,16 +50,4 @@ widget2:
 - info@technvsolutions.com
 - service@technvsolutions.com
 - repairs@technvsolutions.com
-<aside>
-    <div>
-    <img id="Facebook Icon"
-        src="../assets/graphics/icons/Social/Facebook-Circle.svg"
-        alt="Facebook Icon"
-        width="50" height="auto"
-        />
-    <br />
-    <img src="../assets/graphics/icons/Social/Instagram-logo.svg">
-    <br />
-    <img src="../assets/graphics/icons/Social/Twitter-logo.svg">
-    </div>
-</aside>
+
