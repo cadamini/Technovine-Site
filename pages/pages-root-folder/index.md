@@ -25,7 +25,7 @@ widget3:
   title: "Contact"
   url: '/contact/'
   image: 
-  text: 'Phone: NUM<br />Email: EMAIL' # takes HTML input
+  text: 'Phone: (713) 491-4415<br />Email:<ul></ul> EMAIL' # takes HTML input
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -45,4 +45,4 @@ homepage: true
 
 # Our Mission
 
-
+<ul></ul>
