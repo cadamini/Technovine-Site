@@ -15,13 +15,15 @@ header:
 widget1:
   title: "Our Services"
   url: '/services'
-  image: 
-  text: 'View our Services'
+  image: services-widget.jpeg
+  text: 'View Our Services.'
 widget2:
   title: "Who We Are"
   url: '/about'
   image:
-  text: '[something basic]'
+  text: 'We are skilled IT professionals who specialize in solving a range of problems 
+that our clients may face in the realm of IT.
+Through the utilization of state-of-the-art equipment we provide essential hands-on support that allows businesses the ablity to effectively operate and maintain the crucial systems that keep them afloat.'
 widget3:
   title: "Contact"
   url: '/contact'
