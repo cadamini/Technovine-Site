@@ -26,7 +26,7 @@ Through the utilization of state-of-the-art equipment we provide essential hands
 widget3:
   title: "Contact"
   url: '/contact'
-  image: 
+  image: contact-widget.jpeg
   text: '<h4>Phone</h4> (713) 491-4415<br /> <h4>Email</h4> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li> <li>repairs@technvsolutions.com</li> </ul>' # takes HTML input
 #
 # Use the call for action to show a button on the frontpage
