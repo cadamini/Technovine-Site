@@ -19,7 +19,7 @@ widget1:
 widget2:
   title: "Who We Are"
   url: '/about'
-  image:
+  image: about-widget.jpeg
   text: 'We are skilled IT professionals who specialize in solving a range of problems 
 that our clients may face in the realm of IT.
 Through the utilization of state-of-the-art equipment we provide essential hands-on support that allows businesses the ablity to effectively operate and maintain the crucial systems that keep them afloat.'
