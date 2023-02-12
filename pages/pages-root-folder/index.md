@@ -9,7 +9,6 @@ permalink: /index.html
 
 header:
   image_fullwidth: networking-connections-001.jpeg
-  title: 'Technovine Solutions'
 
 
 widget1:
