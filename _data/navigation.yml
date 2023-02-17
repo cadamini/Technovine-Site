@@ -6,6 +6,10 @@
   url: "/about"
   side: left
 
+- title: "Contact"
+  url: "/contact"
+  side: left
+
 - title: "Services"
   url: "/services"
   side: left
@@ -27,9 +31,7 @@
 	- title: "Telecom Services"
       url: "/services/telecom-services"
 
-- title: "Contact"
-  url: "/contact"
-  side: left
+
 
 
 
