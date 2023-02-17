@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/telecoms
+permalink: /services/telecom-services
 
 title: "Telecom Services"
 subheadline: ""
