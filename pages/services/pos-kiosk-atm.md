@@ -26,7 +26,7 @@ homepage: false
 
 # Why is it Important?
 
-__POS__, __kiosks__, and __ATMs__ are essential elements to the businesses that rely on these types of technology to provide goods or services to their customers. Point of Sale (POS) systems are used to process transactions in retail and hospitality environments. Kiosks are interactive terminals that allow customers to access information or perform self-service tasks, and Automated Teller Machines (ATMs) are used to provide banking services to customers. Without POS systems, kiosks, and ATMs businesses experience lower levels of productivity which leads to not being able to serve customers effectively.
+__POS__, __kiosks__, and __ATMs__ are essential elements to businesses that rely on these types of technology to provide goods or services to their customers. Point of Sale (POS) systems are used to process transactions in retail and hospitality environments. Kiosks are interactive terminals that allow customers to access information or perform self-service tasks, and Automated Teller Machines (ATMs) are used to provide banking services to customers. Without POS systems, kiosks, and ATMs businesses experience lower levels of productivity which leads to not being able to serve customers effectively.
 
 This is why having expert __POS__, __kiosk__, and __ATM__ support is a must-have for every business that utilizes these forms of technology.
 ## What is it? - POS Support
