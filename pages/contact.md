@@ -2,7 +2,7 @@
 layout: frontpage
 permalink: /contact
 
-title: "Contact"
+title: "Contact1"
 subheadline: ""
 
 
