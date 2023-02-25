@@ -28,7 +28,7 @@
       url: "/services/networking"
     - title: "POS Services"
       url: "/services/point-of-service"
-	- title: "Telecom Services"
+    - title: "Telecom Services"
       url: "/services/telecom-services"
 
 
