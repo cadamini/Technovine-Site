@@ -14,3 +14,7 @@ trim_trailing_whitespace = false
 
 [*.svg]
 trim_trailing_whitespace = false
+
+[/_data/*.yml]
+indent_size = 2
+indent_style = space
