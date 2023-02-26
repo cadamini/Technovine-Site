@@ -14,7 +14,7 @@ header:
 widget1:
   title: "Our Services"
   url: '/services'
-  image: services-widget-001.jpeg
+  image: services-widget-004.jpeg
   text: 'View Our Services.'
 widget2:
   title: "Who We Are"
