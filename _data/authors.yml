@@ -7,14 +7,14 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 RichNSD:
   name:             "Richard Joubert"
-  siterole:         "developer, designer, consulting editor"
+  siterole:         "lead developer, designer, consulting editor"
   uri:              https://hub.newspectrum.dev/
   email:            info@newspectrum.dev
-  # twitter:        
+  # twitter:
 
 PatriotsForLife:
   name:             "Mayowa Ogunbowale"
   siterole:         "developer, designer, site admin"
   uri:              https://liquidleads.us/
   email:            info@liquidleads.us
-  # twitter:        
+  # twitter:
