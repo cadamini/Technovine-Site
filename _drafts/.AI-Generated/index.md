@@ -4,7 +4,7 @@ At __Technovine Solutions__, our mission is to provide innovative and exceptiona
 
 We believe that progress and growth directly correlate to technological advancement. When an organization has the proper implementation of its systems it is able to effectively achieve its goals. Understanding that every business has its own set of challenges and goals, our team of highly skilled IT professionals is dedicated to producing personalized solutions that meet the individual needs of each of our clients. 
 
-Our staff is wholly committed to excellence in everything we do- both for our clients and for ourselves. The satisfaction of our clients is what *truly* defines our success. That is why we constantly strive to stay at the forefront of technological innovations because we know that with the right tools and resources any business can succeed. We aim to provide our clients with only the best mechanisms to propel them toward their goals. With our commitment to excellence, and our deep passion for technology, we are confident that we will continue to make a positive impact in the IT industry for many years to come.
+Our staff is wholly committed to excellence in everything we do- both for our clients and for ourselves. The satisfaction of our clients is what *truly* defines our success. That is why we constantly strive to stay at the forefront of technological innovations because we know that with the right tools and resources, any business can succeed. We aim to provide our clients with only the best mechanisms to propel them toward their goals. We are certain that our profound passion for technology will allow us to positively contribute to the IT industry.
 
 
 
