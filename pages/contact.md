@@ -32,7 +32,7 @@ widget1:
   title: "Contact Information"
   url: ''
   image: 
-  text: '<h3>Phone</h3> (713) 491-4415<br /> <h3>Email</h3> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li> <li>repairs@technvsolutions.com</li> </ul>' # HTML Code
+  text: '<h4>Phone</h4> (713) 491-4415<br /> <h4>Email</h4> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li> <li>repairs@technvsolutions.com</li> </ul>' # HTML Code
 
 widget2:
   title: "Find us on Social Media"
@@ -40,14 +40,4 @@ widget2:
   image: 
   text: '<a id="Facebook Icon Link" href="https://www.facebook.com/TechnovineSolutions"> <img id="Facebook Icon" src="https://simpleicons.org/icons/facebook.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </a> <a id="Facebook Link" href="https://www.facebook.com/TechnovineSolutions" style="position: relative;"> facebook.com/TechnovineSolutions </a> <br /><br /> <a id="Instagram Icon Link" href="https://www.instagram.com/technovinesolutions/"> <img id="Instagram Icon" src="https://simpleicons.org/icons/instagram.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </a> <a id="Instagram Link" href="https://www.instagram.com/technovinesolutions/" style="position: relative;"> instagram.com/technovinesolutions </a> <br /><br /> <a id="Twitter Icon Link" href="https://twitter.com/TechnovineSolut"> <img id="Twitter Icon" src="https://simpleicons.org/icons/twitter.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </a> <a id="Twitter Link" href="https://twitter.com/TechnovineSolut" style="position: relative;"> twitter.com/TechnovineSolut </a> <br />' # HTML Code
 ---
-
-# Contact
-
-## Phone
-- (713) 491-4415
-
-## Email
-- info@technvsolutions.com
-- service@technvsolutions.com
-- repairs@technvsolutions.com
 
