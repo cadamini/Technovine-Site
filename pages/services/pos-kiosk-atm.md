@@ -7,11 +7,7 @@ subheadline: ""
 
 header: yes
 header:
-    image_fullwidth: yes
-    image: pos-002.jpg
-    color: "hsla(0, 0%, 80%, 1.0)"
-    background-color: "hsla(43, 100%, 100%, 1.0)"
-    title: Point-of-Service Solutions
+    image_fullwidth: pos-002.jpg
 
 sidebar: left
 meta_title: # Enter later

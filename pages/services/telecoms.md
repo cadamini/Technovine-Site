@@ -5,13 +5,8 @@ permalink: /services/telecom-services
 title: "Telecom Services"
 subheadline: ""
 
-header: yes
 header:
-    image_fullwidth: yes
-    image: telecoms-001.jpeg
-    color: "hsla(0, 0%, 80%, 1.0)"
-    background-color: "hsla(43, 100%, 100%, 1.0)"
-    title: Telecom Services
+    image_fullwidth: telecoms-001.jpeg
 
 sidebar: left
 meta_title: # Enter later

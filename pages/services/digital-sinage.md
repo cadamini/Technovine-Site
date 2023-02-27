@@ -5,14 +5,9 @@ permalink: /services/digital-signage
 title: "Digital Signage"
 subheadline: ""
 
-header: yes
 header:
-    image_fullwidth: yes
-    image: digital-signage-001.jpeg
-    color: # "hsla(0, 0%, 10%, 1.0)" (text)
-    background-color: "hsla(43, 100%, 100%, 1.0)"
-    title: # "Title Text"
-    meta_title: # Enter later
+    image_fullwidth: digital-signage-001.jpeg
+	
 sidebar: left
 meta_title: # Enter later
 meta_description: # "Page Description"
