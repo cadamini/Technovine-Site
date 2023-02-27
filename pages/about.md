@@ -5,7 +5,6 @@ permalink: /about
 title: "About"
 subheadline: ""
 
-header: yes
 header:
     image_fullwidth: yes
     image: "about-002.jpeg"
