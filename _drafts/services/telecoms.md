@@ -1,0 +1,29 @@
+---
+layout: page
+permalink: /services/telecom-services
+
+title: "Telecom Services"
+subheadline: ""
+
+header: yes
+header:
+    image_fullwidth: yes
+    image: telecoms-001.jpeg
+    color: "hsla(0, 0%, 80%, 1.0)"
+    background-color: "hsla(43, 100%, 100%, 1.0)"
+    title: Telecom Services
+
+sidebar: left
+meta_title: # Enter later
+meta_description: # "Page Description"
+tags:
+  - 
+
+homepage: false
+---
+
+# Why is it Important
+
+It is widely known that communication is a key component to any successful business whether this occurs from supervisor to subordinate or from the marketing team to the operations department. The dissemination of information within a company is crucial to the overall performance of that organization. __Telecommunications__ enable individuals and groups to communicate with each other across long distances, regardless of their location; allowing the several different elements of your business to transfer information and instructions.
+
+This is why when parts of your __Telecom__ infrastructure go astray you must enlist the help of experts who have the right equipment and knowledge to address your problem. Technovine Solutions has both the knowledge and expertise to solve any obstacle your __Telecom__ network may encounter.
