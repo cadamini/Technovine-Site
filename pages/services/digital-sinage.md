@@ -6,7 +6,7 @@ title: "Digital Signage"
 subheadline: ""
 
 header:
-    image_fullwidth: digital-signage-001.jpeg
+    image_fullwidth: 
 	
 sidebar: left
 meta_title: # Enter later
@@ -20,6 +20,12 @@ homepage: false
 # Why is it important?
 
 __Digital Signage__ has grown rapidly over the last two decades well beyond just a *flashy trend* for big businesses in the realm of __Marketing__, __Advertising__, and the general dissemination of information. Now it has become the expected strategy.
+<img id="digital-signage-001"
+     src="../images/digital-signage-001.jpeg"
+     alt="mouseover description"
+     width="80%" height="auto"
+     style="position: /*left|center|right*/"
+     />
 
 Proper and reliable digital signage allows for a quick and cost-effective transfer of information to customers. Malfunctioning or out-of-date digital signage can result in confusion or inefficient completion of everyday business operations.
 
