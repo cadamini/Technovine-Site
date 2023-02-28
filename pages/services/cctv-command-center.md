@@ -21,6 +21,7 @@ homepage: false
 # Why is it Important?
 
 A __CCTV Command Center__ is an essential component of any business; they provide real-time monitoring of multiple locations from one central hub. The security they supply is indispensable, allowing businesses to have peace of mind knowing that their CCTV Command Center is working 24/7 to keep their employees, customers, and partners safe.
+
 <img id="cctv-001"
      src="../images/cctv-001.jpeg"
      alt="mouseover description"

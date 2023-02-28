@@ -6,7 +6,7 @@ title: ""
 subheadline: "Datacenters"
 
 header:
-    image_fullwidth: datacenter-002.jpeg
+    image_fullwidth: datacenter-002-copy.jpeg
 
 sidebar: left
 meta_title: # Enter later

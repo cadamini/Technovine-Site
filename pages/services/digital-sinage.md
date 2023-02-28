@@ -20,6 +20,7 @@ homepage: false
 # Why is it important?
 
 __Digital Signage__ has grown rapidly over the last two decades well beyond just a *flashy trend* for big businesses in the realm of __Marketing__, __Advertising__, and the general dissemination of information. Now it has become the expected strategy.
+
 <img id="digital-signage-001"
      src="../images/digital-signage-001.jpeg"
      alt="mouseover description"

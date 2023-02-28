@@ -6,7 +6,7 @@ title: "About"
 subheadline: ""
 
 header:
-    image_fullwidth: "about-002.jpeg"
+    image_fullwidth: ""
 
 sidebar: left
 meta_title: # Enter later
@@ -24,12 +24,19 @@ Through the utilization of state-of-the-art equipment, we provide essential hand
 
 <img id="about-001"
      src="../images/about-001.jpeg"
-     alt="mouseover description"
+     alt="IT Technicians working together"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
 
 At Technovine Solutions, we are geared toward using the power of technology to help our clients achieve their business objectives whether it is a client who may be embarking on a new project or are in the process of executing a pre-existing plan. No matter the situation, we promise the smooth and effortless completion of your new or current projects. We are committed to delivering excellent results to our clients to help them achieve their goals and promote growth.
+
+<img id="about-002"
+     src="../images/about-002.jpeg"
+     alt="IT Technicians working together"
+     width="80%" height="auto"
+     style="position: /*left|center|right*/"
+     />
 
 
 
