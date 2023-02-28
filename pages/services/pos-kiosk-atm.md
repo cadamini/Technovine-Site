@@ -5,9 +5,10 @@ permalink: /services/point-of-service
 title: "Point-of-service Solutions"
 subheadline: ""
 
-header: yes
+
 header:
     image_fullwidth: pos-002.jpg
+    
 
 sidebar: left
 meta_title: # Enter later
@@ -17,8 +18,6 @@ tags:
 
 homepage: false
 ---
-
-# AI Generated
 
 # Why is it Important?
 
