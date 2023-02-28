@@ -29,7 +29,7 @@ A __CCTV Command Center__ is an essential component of any business; they provid
      style="position: /*left|center|right*/"
      />
 
-So when something goes wrong it is of utmost importance to get the right __CCTV Command Center **Support__** that has the technicians that are equipped with the tools needed to get your __CCTV Command Center__ back online. 
+So when something goes wrong it is of utmost importance to get the right __CCTV Command Center Support__ that has the technicians that are equipped with the tools needed to get your __CCTV Command Center__ back online. 
 
 
 
