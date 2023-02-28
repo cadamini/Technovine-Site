@@ -24,7 +24,7 @@ A __CCTV Command Center__ is an essential component of any business; they provid
 
 <img id="cctv-001"
      src="../images/cctv-001.jpeg"
-     alt="mouseover description"
+     alt="cctv command center"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />

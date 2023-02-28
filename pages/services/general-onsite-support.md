@@ -27,7 +27,7 @@ __General Onsite Tech Support__ is a crucial element to every modern business; p
 
 <img id="general-support-001"
      src="../images/general-support-001.jpeg"
-     alt="mouseover description"
+     alt="IT Technician"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      /> 

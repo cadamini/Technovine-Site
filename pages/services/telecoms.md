@@ -23,7 +23,7 @@ It is widely known that communication is a key component to any successful busin
 
 <img id="telecoms-001"
      src="../images/telecoms-001.jpeg"
-     alt="mouseover description"
+     alt="telecoms tower"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
