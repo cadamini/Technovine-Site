@@ -5,7 +5,7 @@ title: "CCTV Services"
 subheadline: ""
 
 header:
-    image_fullwidth: 
+    image_fullwidth: cctv-002.jpeg
 
 sidebar: left
 meta_title: # Enter later
