@@ -6,7 +6,7 @@ title: "Networking & Support"
 subheadline: ""
 
 header:
-    image_fullwidth: 
+    image_fullwidth: networking-connections-006.jpeg
 
 sidebar: left
 meta_title: # Enter later
