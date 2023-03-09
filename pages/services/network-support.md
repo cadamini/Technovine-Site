@@ -25,7 +25,7 @@ __Networking__ is a *crucial* part of any modern-day business- in Marketing, obv
 
 <img id="networking-connections-003"
      src="../images/networking-connections-003.jpeg"
-     alt="mouseover description"
+     alt="IT Technician"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />

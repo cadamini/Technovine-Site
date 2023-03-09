@@ -33,7 +33,7 @@ At Technovine Solutions, we are geared toward using the power of technology to h
 
 <img id="about-002"
      src="../images/about-002.jpeg"
-     alt="we make it easy"
+     alt="We Make It Easy"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />

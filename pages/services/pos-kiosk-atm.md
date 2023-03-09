@@ -25,7 +25,7 @@ __POS__, __kiosks__, and __ATMs__ are essential elements to businesses that rely
 
 <img id="pos-002"
      src="../images/pos-002.jpeg"
-     alt="mouseover description"
+     alt="credit card machine"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
