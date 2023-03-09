@@ -27,6 +27,7 @@ Data Centers are the foundation of many modern businesses, providing the infrast
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
+	 
 This is why having professional __Data Center Support__ that is quick and reputable is essential to every company that takes its data seriously. A __Data Center__ that is not working at an optimal level can lead to the loss of data, damaged files, and even the destruction of equipment.
 
 __Data Center Support__ is the monitoring and upkeep of a data center's equipment and systems.
