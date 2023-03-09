@@ -8,7 +8,7 @@ tags:
   - 
 
 header:
-    image_fullwidth: contact-001.jpeg
+    image_fullwidth: # add company name here
 
 sidebar: left
 meta_title: # Enter later
