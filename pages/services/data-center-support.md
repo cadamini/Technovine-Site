@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/datacenters
 
-title: Datacenters
+title: Data Centers
 subheadline: ""
 
 header:
@@ -28,9 +28,9 @@ Data Centers are the foundation of many modern businesses, providing the infrast
      style="position: /*left|center|right*/"
      />
 
-This is why having professional __Data Center Support__ that is quick and reputable is essential to every company that takes its data seriously. A __Data Center__ that is not working at an optimal level can lead to the loss of data, damaged files, and even the destruction of equipment.
+This is why having professional __Data Center Support__ that is quick and reputable is essential to every company that takes its data seriously. __Data Center Support__ is the monitoring and upkeep of a data center's equipment and systems. A __Data Center__ that is not working at an optimal level can lead to the loss of data, damaged files, and even the destruction of equipment. So do not entrust your data to the hands of amateurs get the expert support needed to keep your data secure and running smoothly.
 
-__Data Center Support__ is the monitoring and upkeep of a data center's equipment and systems.
+
 
 <details>
 <summary><h3 style="display:inline">What does <a href="URL">Datacenter Support</a> involve?</h3></summary>

@@ -38,7 +38,7 @@ So when something goes amiss it is of utmost importance to get the right __CCTV 
      style="position: /*left|center|right*/"
      />
 <details>
-<summary><h3 style="display:inline">What does <a href="URL">CCTV Support</a> include?</h3></summary>
+<summary><h3 style="display:inline">What does <a href="URL">CCTV Support</a> involve?</h3></summary>
 
 <li>CCTV installations</li>
 <li>Troubleshooting</li>
