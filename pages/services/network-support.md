@@ -37,9 +37,14 @@ __Network Support__ `[[ what is it? ]]`. This includes making sure all __Network
 <details>
 <summary><h3 style="display:inline">What does <a href="URL">Network Maintenance</a> involve?</h3></summary>
 
-
-- `[[ Information about maintaining networks ]]`
-
+- `Site Survey`
+- `Ethernet` 
+- `Wi-Fi`
+- `Bluetooth`
+- `Coax`
+- `Fiber`
+- ` RF`
+- `And much more!`
 </details>
 <!-- - Make dropdown more noticable -->
 
