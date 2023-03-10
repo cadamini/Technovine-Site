@@ -20,16 +20,24 @@ homepage: false
 
 # Why is it Important?
 
-A __CCTV Command Center__ is an essential component of any business; they provide real-time monitoring of multiple locations from one central hub. The security they supply is indispensable, allowing businesses to have peace of mind knowing that their CCTV Command Center is working 24/7 to keep their employees, customers, and partners safe.
+ **CCTV Services** are an essential component of any business. CCTV provides real-time monitoring of multiple locations; the security they supply is indispensable, allowing businesses to have peace of mind knowing that their CCTV system is working 24/7 to keep their employees, customers, and partners safe.
 
-<img id="cctv-001"
+<img id="cctv-003"
      src="../images/cctv-001.jpeg"
-     alt="cctv command center"
+     alt="camera being repaired"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
 
-So when something goes wrong it is of utmost importance to get the right __CCTV Command Center Support__ that has the technicians that are equipped with the tools needed to get your __CCTV Command Center__ back online. 
+So when something goes amiss it is of utmost importance to get the right __CCTV Support__ that has the technicians that are equipped with the tools needed to get your CCTV system back online. 
+
+<details>
+<summary><h3 style="display:inline">What does <a href="URL">CCTV Support</a> include?</h3></summary>
+
+- `CCTV installations`
+- `Troubleshooting`
+- `Camera replacements`
+
 
 
 
