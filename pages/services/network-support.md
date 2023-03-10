@@ -48,7 +48,13 @@ __Network Support__ includes making sure all __Networking Hardware__, __Software
 </details>
 <!-- - Make dropdown more noticable -->
 
-## Network Monitoring
+<img id="networking-connections-008"
+     src="../images/networking-connections-008.jpeg"
+     alt="IT Technician"
+     width="80%" height="auto"
+     style="position: /*left|center|right*/"
+     />
+### Network Monitoring
 
 Monitoring the network for potential problems, and resolving any connectivity issues that may occur. Another important aspect of __Network Support__ is security. Businesses need to be able to ensure that their networks are protected against potential cyber threats like malware and ransomware.
 
