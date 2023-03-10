@@ -32,7 +32,13 @@ This is why having professional __Data Center Support__ that is quick and reputa
 
 __Data Center Support__ is the monitoring and upkeep of a data center's equipment and systems.
 
+<details>
+<summary><h3 style="display:inline">What does <a href="URL">Datacenter Support</a> involve?</h3></summary>
 
+ <li>Smart hands</li>
+<li>Equipment replacement</li> 
+<li>Equipment repairs</li>
+</details>
 
 
 
