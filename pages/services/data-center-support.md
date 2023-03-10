@@ -2,8 +2,8 @@
 layout: page
 permalink: /services/datacenters
 
-title: ""
-subheadline: "Datacenters"
+title: Datacenters
+subheadline: ""
 
 header:
     image_fullwidth: datacenter-002-copy.jpeg
