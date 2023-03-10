@@ -23,7 +23,7 @@ __Digital Signage__ has grown rapidly over the last two decades well beyond just
 
 <img id="digital-signage-004"
      src="../images/digital-signage-004.jpeg"
-     alt="mouseover description"
+     alt="digital signage"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
@@ -32,7 +32,7 @@ Proper and reliable digital signage allows for a quick and cost-effective transf
 
 <img id="digital-signage-001"
      src="../images/digital-signage-001.jpeg"
-     alt="mouseover description"
+     alt="digital signage"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
