@@ -23,7 +23,7 @@ homepage: false
  **CCTV Services** are an essential component of any business. CCTV provides real-time monitoring of multiple locations; the security they supply is indispensable, allowing businesses to have peace of mind knowing that their CCTV system is working 24/7 to keep their employees, customers, and partners safe.
 
 <img id="cctv-003"
-     src="../images/cctv-001.jpeg"
+     src="../images/cctv-003.jpeg"
      alt="camera being repaired"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
@@ -31,9 +31,14 @@ homepage: false
 
 So when something goes amiss it is of utmost importance to get the right __CCTV Support__ that has technicians who are equipped with the tools needed to get your CCTV system back online. So whether your cameras receive their power through LTE, solar energy, or anything in between we have the necessary equipment to get you back into action. 
 
+<img id="cctv-003"
+     src="../images/cctv-003.jpeg"
+     alt="camera being repaired"
+     width="80%" height="auto"
+     style="position: /*left|center|right*/"
+     />
 <details>
 <summary><h3 style="display:inline">What does <a href="URL">CCTV Support</a> include?</h3></summary>
-
 <li>CCTV installations</li>
 <li>Troubleshooting</li>
 <li>Camera replacements</li>
