@@ -23,7 +23,7 @@ Data Centers are the foundation of many modern businesses, providing the infrast
 
 <img id="datacenter-001"
      src="../images/datacenter-001.jpeg"
-     alt="datacenter"
+     alt="Datacenter"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
@@ -32,7 +32,7 @@ This is why having professional __Data Center Support__ that is quick and reputa
 
 <img id="datacenter-004"
      src="../images/datacenter-004.jpeg"
-     alt="datacenter"
+     alt="Datacenter"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />

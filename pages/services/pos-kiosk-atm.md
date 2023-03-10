@@ -31,20 +31,39 @@ __POS__, __kiosks__, and __ATMs__ are essential elements to businesses that rely
      />
 
 This is why having expert __POS__, __kiosk__, and __ATM__ support is a must-have for every business that utilizes these forms of technology.
-## What is it? - POS Support
+### What is it? - POS Support
 
 __POS Support__ ensures that the hardware and software POS systems rely on are up-to-date and working properly; while also monitoring the system for potential issues. Troubleshooting, resolving any connectivity issues that may occur, and providing regular maintenance are also important aspects of __POS Support__.
 
-## What is it? - Kiosk Support
+<img id="pos-004"
+     src="../images/pos-004.jpeg"
+     alt="POS machine"
+     width="80%" height="auto"
+     style="position: /*left|center|right*/"
+     />
+
+### What is it? - Kiosk Support
 
 __Kiosk support__ involves the monitoring and management of the hardware, software, and operating system of a kiosk. __Kiosk support__ also includes preventative maintenance to put a stop to problems before they even occur.
 
-## What is it? - ATM Support
+<img id="pos-005"
+     src="../images/kiosk-001.jpeg"
+     alt="Man using kiosk"
+     width="80%" height="auto"
+     style="position: /*left|center|right*/"
+     />
+### What is it? - ATM Support
 
 __ATM Support__ incorporates the maintenance and supervision of ATMs to make sure they are functioning properly.
 
 To ensure that businesses have the necessary POS, kiosk, and ATM support Technovine Solutions uses state-of-the-art equipment to achieve the best results for businesses that depend on POS, ATM, and kiosk systems
 
+<img id="atm-001"
+     src="../images/atm-001.jpeg"
+     alt="Individual using an ATM"
+     width="80%" height="auto"
+     style="position: /*left|center|right*/"
+     />
 
 POS, kiosk, and ATM support is an important component for any bank, retail store, fast-food restaurant, and any business that depends on these machines to offer goods or services to their customers.
 

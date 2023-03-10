@@ -24,7 +24,7 @@ homepage: false
 
 <img id="cctv-003"
      src="../images/cctv-003.jpeg"
-     alt="camera being repaired"
+     alt="Camera being repaired"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
@@ -33,7 +33,7 @@ So when something goes amiss it is of utmost importance to get the right __CCTV 
 
 <img id="cctv-004"
      src="../images/cctv-004.jpeg"
-     alt="camera being installed"
+     alt="Camera installation"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
