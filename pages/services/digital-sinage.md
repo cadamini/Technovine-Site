@@ -8,7 +8,7 @@ subheadline: ""
 header:
     image_fullwidth: digital-signage-002.jpeg
 
-sidebar: left
+sidebar: #
 meta_title: # Enter later
 meta_description: # "Page Description"
 tags:

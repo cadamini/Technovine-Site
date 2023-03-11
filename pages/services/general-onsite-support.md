@@ -9,7 +9,7 @@ subheadline: ""
 header:
     image_fullwidth: general-support-002.jpeg
 
-sidebar: left
+sidebar: #
 meta_title: # Enter later
 meta_description: # "Page Description"
 tags:

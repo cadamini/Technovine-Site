@@ -8,7 +8,7 @@ subheadline: ""
 header:
     image_fullwidth: datacenter-002-copy.jpeg
 
-sidebar: left
+sidebar: #
 meta_title: # Enter later
 meta_description: # "Page Description"
 tags:

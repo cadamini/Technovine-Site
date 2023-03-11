@@ -35,7 +35,7 @@ This is why having top-quality, reliable __Network Support__ is necessary for ev
 __Network Support__ includes making sure all __Networking Hardware__, __Software__, and other related dependencies are both up to date and functioning properly.
 
 <details>
-<summary><h3 style="display:inline">What does <a href="URL">Network Maintenance</a> involve?</h3></summary>
+<summary><h3 style="display:inline">&#9656; What does <a href="URL">Network Maintenance</a> involve?</h3></summary>
 
  <li>Site Survey</li>
 <li>Ethernet</li> 
