@@ -10,13 +10,13 @@ header:
     image_fullwidth: contact-003.jpeg
 
 sidebar: left
-meta_title: # Enter later
-meta_description: # "Page Description"
+#meta_title: # Enter later
+#meta_description: # "Page Description"
 tags:
   - 
 
 sidebar: left
-meta_description: # "Page Description"
+#meta_description: # "Page Description"
 
 homepage: false
 

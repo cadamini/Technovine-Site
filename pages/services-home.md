@@ -11,13 +11,13 @@ header:
     image_fullwidth: # add company name here
 
 sidebar: left
-meta_title: # Enter later
-meta_description: # "Page Description"
+#meta_title: # Enter later
+#meta_description: # "Page Description"
 tags:
   - 
 
-sidebar: left
-meta_description: # "Page Description"
+
+#meta_description: # "Page Description"
 
 homepage: false
 ---

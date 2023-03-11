@@ -9,8 +9,8 @@ header:
     image_fullwidth: telecom-002.jpeg
 
 sidebar: left
-meta_title: # Enter later
-meta_description: # "Page Description"
+#meta_title: # Enter later
+#meta_description: # "Page Description"
 tags:
   - 
 

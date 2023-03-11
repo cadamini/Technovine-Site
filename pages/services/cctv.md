@@ -7,9 +7,9 @@ subheadline: ""
 header:
     image_fullwidth: cctv-002.jpeg
 
-sidebar: #
-meta_title: # Enter later
-meta_description: # "Page Description"
+#sidebar: #
+#meta_title: # Enter later
+#meta_description: # "Page Description"
 tags:
   - 
 

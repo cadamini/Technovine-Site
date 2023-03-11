@@ -10,9 +10,9 @@ header:
     image_fullwidth: pos-003.jpeg
     
 
-sidebar: #
-meta_title: # Enter later
-meta_description: # "Page Description"
+#sidebar: #
+#meta_title: # Enter later
+#meta_description: # "Page Description"
 tags:
   - 
 
