@@ -7,7 +7,7 @@ subheadline: ""
 
 
 header:
-    image_fullwidth: pos-003.jpeg
+    image_fullwidth: pos-005.jpeg
     
 
 #sidebar: #
