@@ -28,7 +28,7 @@ __Digital Signage__ has grown rapidly over the last two decades well beyond just
      style="position: /*left|center|right*/"
      />
 
-Proper and reliable digital signage allows for a quick and cost-effective transfer of information to customers. Malfunctioning or out-of-date digital signage can result in confusion or inefficient completion of everyday business operations.
+Proper and reliable digital signage allows for a quick and cost-effective transfer of information to customers. Malfunctioning or out-of-date digital signage can result in confusion or inefficient completion of everyday business operations. This is why having professional __Digital Signage Support__ is imperative for any business that takes advantage of the benefits that **Digital Signage** provides.
 
 <img id="digital-signage-001"
      src="../images/digital-signage-001.jpeg"
@@ -37,7 +37,7 @@ Proper and reliable digital signage allows for a quick and cost-effective transf
      style="position: /*left|center|right*/"
      />
 
-This is why having professional __Digital Signage Support__ is imperative for any business that takes advantage of the benefits that **Digital Signage** provides.
+
 
 
 
