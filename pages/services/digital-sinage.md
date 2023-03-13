@@ -6,7 +6,7 @@ title: "Digital Signage"
 subheadline: ""
 
 header:
-    image_fullwidth: digital-signage-002.jpeg
+    image_fullwidth: digital-signage-002-copy.jpeg
 
 #sidebar: #
 #meta_title: # Enter later
