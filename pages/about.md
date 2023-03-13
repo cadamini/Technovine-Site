@@ -6,7 +6,7 @@ title: "About"
 subheadline: ""
 
 header:
-    image_fullwidth: ""
+    image_fullwidth: "pos-005.jpeg"
 
 sidebar: left
 #meta_title: # Enter later
