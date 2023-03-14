@@ -52,7 +52,7 @@ __Network Support__ includes making sure all __Networking Hardware__, __Software
      src="../images/networking-connections-008.jpeg"
      alt="IT Technician"
      width="80%" height="auto"
-     style="position: /*left|center|right*/"
+     style="position: /*center|right*/"
      />
 ### Network Monitoring
 
