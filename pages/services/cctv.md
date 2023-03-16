@@ -38,8 +38,8 @@ So when something goes amiss it is of utmost importance to get the right __CCTV 
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
-<details>
-<summary><h3 style="display:inline">What does <a href="URL">CCTV Support</a> involve?</h3></summary>
+<details open>
+<summary><h3 style="display:inline">&#9656; What does <a href="URL">What does CCTV Support</a> involve?</h3></summary>
 
 <li>CCTV installations</li>
 <li>Troubleshooting</li>
