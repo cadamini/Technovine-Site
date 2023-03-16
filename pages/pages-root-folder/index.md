@@ -44,6 +44,7 @@ widget3:
 # this page as active in the topbar navigation
 #
 homepage: true
+tawkto: true
 ---
 
 # Our Mission
