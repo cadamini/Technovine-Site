@@ -15,7 +15,7 @@ header:
 tags:
   - 
 
-sidebar: left
+sidebar: false
 #meta_description: # "Page Description"
 
 homepage: false
@@ -41,6 +41,7 @@ Professional support allows your business to provide an efficient and memorable 
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
+	 
 Many business owners neglect their __General Onsite Tech Support__ facilities, but when the normal operations of the networks and systems your business requires to run smoothly come to a halt it is paramount that you have the right team of experienced professionals to resolve your problem and bring your equipment back online. 
 
 

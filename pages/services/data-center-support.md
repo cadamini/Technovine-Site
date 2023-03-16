@@ -8,7 +8,7 @@ subheadline: ""
 header:
     image_fullwidth: datacenter-002-copy.jpeg
 
-#sidebar: #
+sidebar: false
 #meta_title: # Enter later
 #meta_description: # "Page Description"
 tags:
@@ -39,7 +39,7 @@ This is why having professional __Data Center Support__ that is quick and reputa
      />
 
 <details>
-<summary><h3 style="display:inline">What does <a href="URL">Datacenter Support</a> involve?</h3></summary>
+<summary><h3 style="display:inline">&#9656; What does <a href="URL">Datacenter Support</a> involve?</h3></summary>
 
  <li>Smart hands</li>
 <li>Equipment replacement</li> 

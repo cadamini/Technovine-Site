@@ -35,7 +35,7 @@ This is why having top-quality, reliable __Network Support__ is necessary for ev
 
 __Network Support__ includes making sure all __Networking Hardware__, __Software__, and other related dependencies are both up to date and functioning properly.
 
-<details>
+<details open>
 <summary><h3 style="display:inline">&#9656; What does <a href="URL">Network Maintenance</a> involve?</h3></summary>
 
  <li>Site Survey</li>
@@ -47,6 +47,7 @@ __Network Support__ includes making sure all __Networking Hardware__, __Software
 <li>RF</li>
 <li>And much more!</li>
 </details>
+
 <!-- - Make dropdown more noticable -->
 
 <img id="networking-connections-008"
@@ -55,6 +56,7 @@ __Network Support__ includes making sure all __Networking Hardware__, __Software
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
+
 ### Network Monitoring
 
 Monitoring the network for potential problems, and resolving any connectivity issues that may occur. Another important aspect of __Network Support__ is security. Businesses need to be able to ensure that their networks are protected against potential cyber threats like malware and ransomware.
