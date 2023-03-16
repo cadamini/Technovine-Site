@@ -10,7 +10,7 @@ tags:
 header:
     image_fullwidth: # add company name here
 
-sidebar: left
+sidebar: false
 #meta_title: # Enter later
 #meta_description: # "Page Description"
 tags:
