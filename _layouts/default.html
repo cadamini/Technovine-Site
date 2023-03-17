@@ -8,7 +8,7 @@ layout: compress
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}
-	<h2>TEST</h2>{% include _navigation.html %}
+	{% include _navigation.html %}<h2>TEST</h2>
 	{% endunless %}
 
 	{% include _masthead.html %}
