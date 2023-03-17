@@ -7,20 +7,20 @@
 <div id="navigation" class="sticky">
 	<nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
 		<div id="topbar-logo" style="padding: 10px">
-			<img id="topbar-logo-img"
-				 src="{%{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }%}"
-				 alt="Technovine Solutions"
-				 height="auto" width="auto"
-				 />
+			<a href="{{ site.url }}{{ site.baseurl }}">
+				<img id="topbar-logo-img"
+					 src="{%{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }%}"
+					 alt="Technovine Solutions"
+					 height="auto" width="auto"
+					 />
+			</a>
 		</div>
 		<ul class="title-area">
 			<li class="name">
 				<h1 class="hide-for-large-up">
 					<!-- <a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {{ site.title }}</a> -->
-					<a href="{{ site.url }}{{ site.baseurl }}">
-						<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}"
-						     height="3rem" />
-					</a>
+						<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}"
+						     height="3rem" /> -->
 				</h1>
 			</li>
 			<!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
