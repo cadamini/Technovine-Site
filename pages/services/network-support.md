@@ -46,7 +46,7 @@ __Network Support__ includes making sure all __Networking Hardware__, __Software
 <li>Fiber</li>
 <li>RF</li>
 <li>And much more!</li>
-</details>
+</details><br></br>
 
 <!-- - Make dropdown more noticable -->
 
