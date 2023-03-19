@@ -38,12 +38,13 @@ This is why having professional __Data Center Support__ that is quick and reputa
      style="position: /*left|center|right*/"
      />
 
-<details>
+<details style="cursor:pointer">
 <summary><h3 style="display:inline">&#9656; What does <a href="URL">Datacenter Support</a> involve?</h3></summary>
 
  <li>Smart hands</li>
 <li>Equipment replacement</li> 
 <li>Equipment repairs</li>
+
 </details>
 
 
