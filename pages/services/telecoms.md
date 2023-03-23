@@ -33,7 +33,7 @@ This is why when parts of your __Telecom__ infrastructure go astray you must enl
 
 <!-- "telecom network has an error on website" -->
 <details style="cursor:pointer">
-<summary><h3 style="display:inline">&#9656; What does <a href="URL">Network Maintenance</a> involve?</h3></summary>
+<summary><h3 style="display:inline">&#9656; What does <a href="URL">Telecom Support</a> involve?</h3></summary>
 
  <li>Network racks</li>
 <li>MPOEs</li> 
