@@ -1,0 +1,23 @@
+.dropdown_body {
+	details {
+		font-family: inherit;
+		// background-color: hsl();
+		// border-radius: 10px;
+		// box-shadow: [x-offset]px [y-offset]px [distance]px hsla(0, 0%, 0%, 0.85);
+		
+		::before {
+			// dropdown arrow thing
+		}
+		::after {
+			// open dropdown arrow
+		}
+
+		summary {
+			h2, h3, h4 {
+				display: inline;
+				font-size: inherit;
+			}
+		}
+	}
+	
+}
