@@ -1,0 +1,25 @@
+.dropdown_body {
+	details {
+		font-family: inherit;
+		background-color: $ci-2;// background-color: hsl();
+		border-radius: 10px;
+		box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.85);
+		
+		
+
+		summary {
+			list-style-type: '▶️';
+			h2, h3, h4 {
+				display: inline;
+				font-size: inherit;
+			}
+		}
+
+		[open] {
+			summary {
+				list-style-type: '▼';
+			}
+		}
+	}
+	
+}
