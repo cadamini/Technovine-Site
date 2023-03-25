@@ -2,7 +2,16 @@
 
 ---
 
-$sr-bg:		  hsl(210, 45%, 30%)
+$sr-bg:		 		hsl(18, 100%, 62%)
+$button-gr1:		hsl(18, 100%, 62%)
+$button-gr2:		hsl(18, 80%, 35%)
+					// #
+$box-shadow: 		1px 1px 3px hsla(0, 0%, 0%, 50%)
+$text-shadow:		0.5px 0.5px 1.5px hsla(0, 0%, 0%, 50%)
+
+$button-gradient: 	linear-gradient(135deg, $button-gr1 0%, $button-gr2 100%)
+
+
 // $gradients:   () !default
 // $gradients: map-merge((
 //     chill: linear-gradient(135deg, #09e485 0%,#0291e3 100%),
@@ -18,13 +27,21 @@ body
 	position: relative
 	max-width: 200px
 	button
-		font-family: "helvetica", sans-serif
+		font-family: "Lato", sans-serif
+		text-shadow: $text-shadow
 		background-color: $sr-bg
 		color: white
 		border: 0
-		box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 50%)
+		box-shadow: $box-shadow
 		border-color: hsla(0, 0%, 0%, 0%)
 		border-radius: 10px
 		padding: 10px 20px
-		/*gradients
-			text shadow, font properties, before and after clicking on button, bevel, extrude*/
+
+
+
+// !! CSS Properties
+	- text shadow
+	- font properties
+	- before and after clicking on button
+	- bevel
+	- extrude

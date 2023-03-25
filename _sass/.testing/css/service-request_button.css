@@ -7,12 +7,27 @@ body {
   max-width: 200px;
 }
 .service-request button {
-  font-family: "helvetica", sans-serif;
-  background-color: hsl(210, 45%, 30%);
+  font-family: "Lato", sans-serif;
+  text-shadow: 0.5px 0.5px 1.5px hsla(0, 0%, 0%, 0.5);
+  background: hsl(18, 100%, 62%);
+  background: linear-gradient(135deg, hsl(18, 100%, 62%) 0%, hsl(18, 80%, 45%) 100%);
   color: white;
   border: 0;
   box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.5);
   border-color: hsla(0, 0%, 0%, 0);
   border-radius: 10px;
   padding: 10px 20px;
-}/*# sourceMappingURL=service-request_button.css.map */
+}
+
+/*
+!! CSS Properties
+	- text shadow
+	- font properties
+	- before and after clicking on button
+	- bevel
+	- extrude
+*/
+/*
+background: $button-gr1;
+background: linear-gradient(135deg, $button-gr1 0%, $button-gr2 100%);
+*//*# sourceMappingURL=service-request_button.css.map */
