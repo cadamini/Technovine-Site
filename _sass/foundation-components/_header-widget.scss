@@ -1,0 +1,24 @@
+@import "/assets/fonts/imports.css";
+
+$txt-color: hsl(0, 0%, 100%);
+
+.header-widget {
+	position: relative;
+	align-items: center;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	div {
+		h4 {
+			font-family: "Libre Baskerville", serif;
+			font-size: 30px;
+		}
+		p {
+			font-family: "Lato", sans-serif;
+			font-size: 16px;
+			color: $txt-color;
+		}
+	}
+
+}
+

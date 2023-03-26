@@ -1,0 +1,17 @@
+@import "/assets/fonts/imports.css";
+.header-widget {
+  position: relative;
+  align-items: center;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-widget div h4 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 30px;
+}
+.header-widget div p {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  color: hsl(0, 0%, 100%);
+}/*# sourceMappingURL=header-widget.css.map */

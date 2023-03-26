@@ -16,7 +16,7 @@ $button-gradient: 	linear-gradient(
 
 body {
 	background-color: hsl(210, 45%, 10%);
-}	
+}
 
 .service-request {
 	position: relative;
@@ -36,16 +36,19 @@ body {
 }
 
 
-/*
-!! CSS Properties
-	- text shadow
-	- font properties
-	- before and after clicking on button
-	- bevel
-	- extrude
-*/
-
-/*
-background: $button-gr1;
-background: linear-gradient(135deg, $button-gr1 0%, $button-gr2 100%);
-*/
+.sales-request {
+	position: relative;
+	max-width: 200px;
+	button {
+		font-family: "Lato", sans-serif;
+		text-shadow: $text-shadow;
+		background: $button-gr1;
+		background: $button-gradient;
+		color: white;
+		border: 0;
+		box-shadow: $box-shadow;
+		border-color: hsla(0, 0%, 0%, 0%);
+		border-radius: 10px;
+		padding: 10px 20px;
+	}
+}

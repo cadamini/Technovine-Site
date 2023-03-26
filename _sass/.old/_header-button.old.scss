@@ -1,0 +1,69 @@
+$sr-bg:		 		hsl(18, 100%, 62%);
+$button-gr1:		hsl(18, 100%, 62%);
+					// #ff773d
+$button-gr2:		hsl(18, 80%, 45%);
+					// #cf4e17
+$box-shadow: 		1px 1px 3px hsla(0, 0%, 0%, 50%);
+$text-shadow:		0.5px 0.5px 1.5px hsla(0, 0%, 0%, 50%);
+
+$button-gradient: 	linear-gradient(
+						135deg,
+						$button-gr1 0%,
+						$button-gr2 100%
+					);
+
+
+
+body {
+	background-color: hsl(210, 45%, 10%);
+}
+
+.service-request {
+	position: relative;
+	max-width: 200px;
+	button {
+		font-family: "Lato", sans-serif;
+		text-shadow: $text-shadow;
+		background: $button-gr1;
+		background: $button-gradient;
+		color: white;
+		border: 0;
+		box-shadow: $box-shadow;
+		border-color: hsla(0, 0%, 0%, 0%);
+		border-radius: 10px;
+		padding: 10px 20px;
+	}
+}
+
+
+.sales-request {
+	position: relative;
+	max-width: 200px;
+	button {
+		font-family: "Lato", sans-serif;
+		text-shadow: $text-shadow;
+		background: $button-gr1;
+		background: $button-gradient;
+		color: white;
+		border: 0;
+		box-shadow: $box-shadow;
+		border-color: hsla(0, 0%, 0%, 0%);
+		border-radius: 10px;
+		padding: 10px 20px;
+	}
+}
+
+
+/*
+!! CSS Properties
+	- text shadow
+	- font properties
+	- before and after clicking on button
+	- bevel
+	- extrude
+*/
+
+/*
+background: $button-gr1;
+background: linear-gradient(135deg, $button-gr1 0%, $button-gr2 100%);
+*/
