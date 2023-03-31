@@ -12,10 +12,11 @@ $button-gradient: 	linear-gradient(
 						$button-gr2 100%
 					);
 
+$test: hsl(210, 45%, 10%);
 
 
 body {
-	background-color: hsl(210, 45%, 10%);
+	background-color: $test;
 }
 
 .service-request {
