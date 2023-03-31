@@ -20,7 +20,7 @@ tawkto: true
 
 
 
-## Why is it important?
+## Why is it Important?
 
 __Networking__ is a *crucial* part of any modern-day business- in Marketing, obviously. However, what many business owners tend to overlook is the importance of their __Data Networking__. Your __Networking Systems__, both __Back-End__ and __Front-End__, are *key components* to the smooth operation of day-to-day business on *all* levels.
 
