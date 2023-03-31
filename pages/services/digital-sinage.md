@@ -20,7 +20,7 @@ homepage: false
 tawkto: true
 ---
 
-## Why is it important?
+## Why is it Important?
 
 __Digital Signage__ has grown rapidly over the last two decades well beyond just a *flashy trend* for big businesses in the realm of __Marketing__, __Advertising__, and the general dissemination of information. Now it has become the expected strategy.
 

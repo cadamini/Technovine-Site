@@ -18,7 +18,7 @@ homepage: false
 tawkto: true
 ---
 
-## Why is it important?
+## Why is it Important?
 
 Data Centers are the foundation of many modern businesses, providing the infrastructure and resources necessary to save, process, and dispense data. They produce an off-premises location to secure and back up your business's data.
 
