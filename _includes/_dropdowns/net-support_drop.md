@@ -12,7 +12,7 @@ summary: >
 - RF
 - And much more! -->
 
-<details class="dropdown_body" style="cursor:pointer">
+<details class="dropdown_body">
 	<summary><h3 style="display:inline"> What does <a href="URL">Network Mintenience</a> involve?</h3></summary>
 
 	 <li>Site Survey</li>
@@ -23,4 +23,4 @@ summary: >
 	<li>Fiber</li>
 	<li>RF</li>
 	<li>And much more!</li>
-	</details><br></br>
+	</details>
