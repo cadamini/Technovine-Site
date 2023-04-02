@@ -1,6 +1,11 @@
 @import "/assets/fonts/imports.css";
+// @import url(https://raw.githubusercontent.com/NewSpectrum/Technovine-Site/main/_sass/foundation-components/_header-button.scss)
 
-$txt-color: hsl(0, 0%, 100%);
+$headr-color: 	hsl(0, 0%, 100%);
+$txt-color: 	hsl(0, 0%, 100%);
+$inner-shadow:	inset 2px 2px 5px hsla(0, 0%, 0%, 0.5);
+$txt-shadow: 	0.5px 0.5px 5px hsla(0, 0%, 0%, 0.5);
+
 
 .header-widget {
 	position: relative;
@@ -8,17 +13,31 @@ $txt-color: hsl(0, 0%, 100%);
 	max-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	div {
-		h4 {
+	.widget-container {
+	    background-color: hsla(0, 0%, 0%, 0.5);
+	    padding: 1rem 2.5rem 2rem 2.5rem;
+	    border-radius: 20px;
+	    backdrop-filter: blur(10px);
+	    -webkit-backdrop-filter: blur(10px);
+
+		box-shadow: $inner-shadow;
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
 			font-family: "Libre Baskerville", serif;
-			font-size: 30px;
+			color: white;
 		}
+
+
 		p {
 			font-family: "Lato", sans-serif;
-			font-size: 16px;
+			font-size: 1rem;
 			color: $txt-color;
 		}
 	}
 
 }
-

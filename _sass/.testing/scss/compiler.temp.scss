@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+$sr-bg:		 		hsl(18, 100%, 62%);
+$button-gr1:		hsl(18, 100%, 62%);
+					// #ff773d
+$button-gr2:		hsl(18, 80%, 45%);
+					// #cf4e17
+$box-shadow: 		1px 1px 3px hsla(0, 0%, 0%, 50%);
+$text-shadow:		0.5px 0.5px 1.5px hsla(0, 0%, 0%, 50%);
+
+$button-gradient: 	linear-gradient(
+						135deg,
+						$button-gr1 0%,
+						$button-gr2 100%
+					);
+
+$test: hsl(210, 45%, 10%);
+
+.service-request {
+	position: relative;
+	max-width: 200px;
+	button {
+		font-family: "Lato", sans-serif;
+		text-shadow: $text-shadow;
+		background: $button-gr1;
+		background: $button-gradient;
+		color: white;
+		border: 0;
+		box-shadow: $box-shadow;
+		border-color: hsla(0, 0%, 0%, 0%);
+		border-radius: 10px;
+		padding: 10px 20px;
+	}
+}
+
+
+.sales-request {
+	position: relative;
+	max-width: 200px;
+    button {
+		font-family: "Lato", sans-serif;
+		text-shadow: $text-shadow;
+		background: $button-gr1;
+		background: $button-gradient;
+		color: white;
+		border: 0;
+		box-shadow: $box-shadow;
+		border-color: hsla(0, 0%, 0%, 0%);
+		border-radius: 10px;
+		padding: 10px 20px;
+	}
+}
+
+
+
+//==========================================
+//
+// ⬆ BUTTONS ⬆
+//
+// ⬇ WIDGET ⬇
+//
+//==========================================
+
+
+
+
+// DO NOT COPY THE BODY PROPERTIES
+body {
+    background-image: url(https://site.technovinesolutions.com/images/networking-connections-004.jpeg);
+    background-size: fill;
+	background-repeat: no-repeat;
+	background-position: center;
+    margin-top: 50px;
+    //background-color: hsl(210, 50%, 15%);
+}
+// COPY EVERYTHING BELOW THIS LINE
+
+$headr-color: 	hsl(0, 0%, 100%);
+$txt-color: 	hsl(0, 0%, 100%);
+$inner-shadow:	inset 2px 2px 5px hsla(0, 0%, 0%, 0.5);
+$txt-shadow: 	0.5px 0.5px 5px hsla(0, 0%, 0%, 0.75);
+
+
+.header-widget {
+	position: relative;
+	align-items: center;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	.widget-container {
+	    background-color: hsla(0, 0%, 0%, 0.5);
+	    padding: 1rem 2.5rem 2rem 2.5rem;
+	    border-radius: 20px;
+	    backdrop-filter: blur(10px);
+	    -webkit-backdrop-filter: blur(10px);
+		box-shadow: $inner-shadow;
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			font-family: "Libre Baskerville", serif;
+			color: white;
+	    	text-shadow: $txt-shadow;
+			text-align: left;
+		}
+
+
+		p {
+			font-family: "Lato", sans-serif;
+			font-size: 1rem;
+			color: $txt-color;
+	        text-shadow: $txt-shadow;
+			text-align: left;
+		}
+	}
+
+}
