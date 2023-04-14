@@ -7,7 +7,7 @@ subheadline: ""
 
 
 header:
-    image_fullwidth: contact-002a.jpeg
+    image_fullwidth: contact-002b.jpeg
 
 sidebar: left
 #meta_title: # Enter later
