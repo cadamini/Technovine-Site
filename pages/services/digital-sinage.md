@@ -6,7 +6,7 @@ title: "Digital Signage"
 subheadline: ""
 
 header:
-    image_fullwidth: digital-signage-002-copy.jpeg
+    image_fullwidth: digital-signage-005.jpeg
 
 sidebar: false
 
