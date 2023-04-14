@@ -8,7 +8,7 @@ subheadline: ""
 header:
     image_fullwidth: "about-004.jpeg"
 
-sidebar: left
+sidebar: false
 #meta_title: # Enter later
 #meta_description: # "Page Description"
 tags:

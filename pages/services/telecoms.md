@@ -8,7 +8,7 @@ subheadline: ""
 header:
     image_fullwidth: telecom-002.jpeg
 
-sidebar: left
+sidebar: false
 #meta_title: # Enter later
 #meta_description: # "Page Description"
 tags:
