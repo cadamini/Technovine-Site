@@ -2,8 +2,8 @@ details.dropdown_body {
 
 	background-color: grey !important;
 	font-family: inherit;
-	border-radius: 10px;
-	box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.85);
+	border-radius: 10px !important;
+	box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.85) !important;
 
 	summary.dropdown-title {
 		list-style-type: none;
@@ -18,8 +18,8 @@ details.dropdown_body {
 		.custom-marker {
 
 			display: inline-block;
-			transition: all .3s;
-			transform: rotate(0deg);
+			transition: all .3s !important;
+			transform: rotate(0deg) !important;
 
 		}
 
