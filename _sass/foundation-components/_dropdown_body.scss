@@ -1,6 +1,6 @@
 details.dropdown_body {
 
-	background-color: grey;
+	background-color: grey !important;
 	font-family: inherit;
 	border-radius: 10px;
 	box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.85);
@@ -26,7 +26,7 @@ details.dropdown_body {
 
 		&[open] {
 			summary .custom-marker {
-				transform: rotate(90deg);
+				transform: rotate(90deg) !important;
 			}
 		}
 	}
