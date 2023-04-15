@@ -4,33 +4,24 @@ details.dropdown_body {
 	font-family: inherit;
 	border-radius: 10px;
 	box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.85);
-	// background-color: hsl();
 
+	summary.dropdown-title {
+		list-style-type: none;
 
-    // cursor {
-	// 		cursor: pointer;
-	// }
+		h2,
+		h3,
+		h4 {
+			//display: inline;
+			font-size: inherit;
+		}
 
+		.custom-marker {
 
+			display: inline-block;
+			transition: all .3s;
+			transform: rotate(0deg);
 
-		summary {
-			list-style-type: none;
-
-			.custom-marker {
-
-				display: inline-block;
-				transition: all .3s;
-				transform: rotate(0deg);
-
-			  }
-
-			  h2,
-			  h3,
-			  h4 {
-				display: inline;
-				font-size: inherit;
-			  }
-			}
+		}
 
 
 		&[open] {
@@ -39,3 +30,4 @@ details.dropdown_body {
 			}
 		}
 	}
+}
