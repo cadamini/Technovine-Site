@@ -36,22 +36,12 @@ This is why having top-quality, reliable __Network Support__ is necessary for ev
 __Network Support__ includes making sure all __Networking Hardware__, __Software__, and other related dependencies are both up to date and functioning properly.
 
 {% include _dropdowns/net-support_drop.html %}
-<br />
-<!-- <details style="cursor:pointer">
-<summary><h3 style="display:inline">&#9656; What does <a href="URL">Network Mintenience</a> involve?</h3></summary>
 
- <li>Site Survey</li>
-<li>Ethernet</li> 
-<li>Wi-Fi</li>
-<li>Bluetooth</li>
-<li>Coax</li>
-<li>Fiber</li>
-<li>RF</li>
-<li>And much more!</li>
-</details><br></br> -->
+
+
 
 <!-- - Make dropdown more noticable -->
-
+<br />
 <img id="networking-connections-008"
      src="../images/networking-connections-008.jpeg"
      alt="IT Technician"
@@ -79,3 +69,15 @@ Monitoring the network for potential problems, and resolving any connectivity is
 >In conclusion, __Network Support__ is an integral part of every modern-day business. By making sure that their network infrastructure is well-designed and secure, companies can ensure that their employees, customers, and partners can communicate effectively. For all these reasons, your business needs the professionals at Technovine Solutions so that you can secure the __Network Support__ your business needs.
  --->
 
+<!-- <details style="cursor:pointer">
+<summary><h3 style="display:inline">&#9656; What does <a href="URL">Network Mintenience</a> involve?</h3></summary>
+
+ <li>Site Survey</li>
+<li>Ethernet</li> 
+<li>Wi-Fi</li>
+<li>Bluetooth</li>
+<li>Coax</li>
+<li>Fiber</li>
+<li>RF</li>
+<li>And much more!</li>
+</details><br></br> -->
