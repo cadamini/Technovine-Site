@@ -7,7 +7,6 @@ subheadline: ""
 
 header:
     image_fullwidth: networking-connections-009.jpeg
-	# {% include sass/.testing/html/button-preview.html %}
 
 sidebar: false
 #meta_title: # Enter later
