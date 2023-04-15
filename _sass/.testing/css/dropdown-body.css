@@ -1,0 +1,25 @@
+details.dropdown_body {
+  background-color: grey;
+  font-family: inherit;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.85);
+}
+details.dropdown_body summary {
+  list-style-type: none;
+}
+details.dropdown_body summary .custom-marker {
+  display: inline-block;
+  transition: all 0.3s;
+  transform: rotate(0deg);
+}
+details.dropdown_body summary h2,
+details.dropdown_body summary h3,
+details.dropdown_body summary h4 {
+  display: inline;
+  font-size: inherit;
+}
+details.dropdown_body[open] summary .custom-marker {
+  transform: rotate(90deg);
+}
+
+/*# sourceMappingURL=dropdown-body.css.map */
