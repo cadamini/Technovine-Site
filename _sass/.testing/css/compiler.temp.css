@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
+.service-request {
+  position: relative;
+  max-width: 200px;
+}
+.service-request button {
+  font-family: "Lato", sans-serif;
+  text-shadow: 0.5px 0.5px 1.5px hsla(0, 0%, 0%, 0.5);
+  background: hsl(18, 100%, 62%);
+  background: linear-gradient(135deg, hsl(18, 100%, 62%) 0%, hsl(18, 80%, 45%) 100%);
+  color: white;
+  border: 0;
+  box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.5);
+  border-color: hsla(0, 0%, 0%, 0);
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.sales-request {
+  position: relative;
+  max-width: 200px;
+}
+.sales-request button {
+  font-family: "Lato", sans-serif;
+  text-shadow: 0.5px 0.5px 1.5px hsla(0, 0%, 0%, 0.5);
+  background: hsl(18, 100%, 62%);
+  background: linear-gradient(135deg, hsl(18, 100%, 62%) 0%, hsl(18, 80%, 45%) 100%);
+  color: white;
+  border: 0;
+  box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.5);
+  border-color: hsla(0, 0%, 0%, 0);
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+body {
+  background-image: url(https://site.technovinesolutions.com/images/networking-connections-004.jpeg);
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 50px;
+}
+
+.header-widget {
+  position: relative;
+  align-items: center;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-widget .widget-container {
+  background-color: hsla(0, 0%, 0%, 0.5);
+  padding: 1rem 2.5rem 2rem 2.5rem;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: inset 2px 2px 5px hsla(0, 0%, 0%, 0.5);
+}
+.header-widget .widget-container h1,
+.header-widget .widget-container h2,
+.header-widget .widget-container h3,
+.header-widget .widget-container h4,
+.header-widget .widget-container h5,
+.header-widget .widget-container h6 {
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-shadow: 0.5px 0.5px 5px hsla(0, 0%, 0%, 0.75);
+  text-align: left;
+}
+.header-widget .widget-container p {
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+  color: hsl(0, 0%, 100%);
+  text-shadow: 0.5px 0.5px 5px hsla(0, 0%, 0%, 0.75);
+  text-align: left;
+}/*# sourceMappingURL=compiler.temp.css.map */
