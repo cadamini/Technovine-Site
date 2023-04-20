@@ -1,24 +1,21 @@
-details.dropdown_body {
+#test {
   background-color: grey;
   font-family: inherit;
   border-radius: 10px;
   box-shadow: 1px 1px 3px hsla(0, 0%, 0%, 0.85);
 }
-details.dropdown_body summary.dropdown-title {
+#test summary {
   list-style-type: none;
 }
-details.dropdown_body summary.dropdown-title h2,
-details.dropdown_body summary.dropdown-title h3,
-details.dropdown_body summary.dropdown-title h4 {
+#test summary h2,
+#test summary h3,
+#test summary h4 {
   font-size: inherit;
 }
-details.dropdown_body summary.dropdown-title .custom-marker {
+#test summary .custom-marker {
   display: inline-block;
   transition: all 0.3s;
   transform: rotate(0deg);
-}
-details.dropdown_body summary.dropdown-title[open] summary .custom-marker {
-  transform: rotate(90deg);
 }
 
 /*# sourceMappingURL=dropdown-body.css.map */
