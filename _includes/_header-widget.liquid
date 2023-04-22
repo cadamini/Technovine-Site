@@ -1,5 +1,20 @@
 <div class="header-widget">
-	<div>
-		{% include '_header-widgets/sales-widget.html' %}
+		<section id="header-widget" class="header-widget">
+			<div id="sales-widget" class="widget-container">
+				<h1>
+					{{ page.header_widget:title }}
+				</h1>
+				<p>
+					{{ page.header_widget:body }}
+				</p>
+				<!--BUTTON-->
+				<br /><br />
+				<div id="button-container" class="sales-request button">
+					<button id="sales_button" onclick="requestService()">
+						{{ page.header_widget:button_text }}
+					</button>
+				</div>
+			</div>
+		</section>
 	</div>
 </div>
