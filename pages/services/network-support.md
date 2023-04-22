@@ -10,8 +10,7 @@ header:
 
 header_widget:
   - title: WE will See
-  - body: | 
-    whatever Text
+  - body: whatever Text
 # New Line
   - button_text: Get&nbsp;Quote
 #   - button_link:
