@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/test1
+permalink: /services/cctv-services
 
 title: "CCTV Services"
 subheadline: ""
