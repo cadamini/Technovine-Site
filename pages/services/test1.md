@@ -28,3 +28,5 @@ tawkto: true
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
+
+So when something goes amiss it is of utmost importance to get the right __CCTV Support__ that has technicians who are equipped with the tools needed to get your CCTV system back online. So whether your cameras receive their power through LTE, solar energy, or anything in between we have the necessary equipment to get you back into action.
