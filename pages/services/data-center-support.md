@@ -6,7 +6,7 @@ title: Data Centers
 subheadline: ""
 
 header:
-    image_fullwidth: datacenter-002-copy.jpeg
+    image_fullwidth: /services/testing
 
 sidebar: false
 #meta_title: # Enter later
