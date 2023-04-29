@@ -14,7 +14,8 @@
   url: "/services"
   side: right
   dropdown:
-   
+   # - title: "All Services"
+    #  url: "/services"
     - title: "CCTV Services"
       url: "/services/cctv-services"
     - title: "Data Center Suppport"
@@ -30,7 +31,7 @@
     - title: "Telecom Services"
       url: "/services/telecom-services"
     - title: "Test1"
-      url:"/services/test1"
+      url: "/services/test1"
 
 
 
@@ -119,5 +120,4 @@
 #   url: "/contact/"
 #   side: right
 
-# - title: "All Services"
-    #  url: "/services"
+
