@@ -16,6 +16,8 @@
   dropdown:
    # - title: "All Services"
     #  url: "/services"
+    # - title: "CCTV Services"
+    #   url: "/services/cctv-services"
     - title: "CCTV Services"
       url: "/services/cctv-services"
     - title: "Data Center Suppport"
@@ -30,8 +32,7 @@
       url: "/services/point-of-service"
     - title: "Telecom Services"
       url: "/services/telecom-services"
-    - title: "CCTV Services1"
-      url: "/services/cctv-services1"
+
 
 
 
