@@ -18,4 +18,6 @@ homepage: false
 tawkto: true
 ---
 
-# Testing
+## Why is it Important?
+
+ **CCTV Services** are an essential component of any business. CCTV provides real-time monitoring of multiple locations; the security they supply is indispensable, allowing businesses to have peace of mind knowing that their CCTV system is working 24/7 to keep their employees, customers, and partners safe.
