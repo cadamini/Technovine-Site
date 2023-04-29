@@ -30,8 +30,8 @@
       url: "/services/point-of-service"
     - title: "Telecom Services"
       url: "/services/telecom-services"
-    - title: "Test1"
-      url: "/services/test1"
+    - title: "CCTV Services1"
+      url: "/services/cctv-services1"
 
 
 
