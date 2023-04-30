@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /services/telecom-services
+permalink: /services/testing1
 
-title: "Telecom Services"
+title: "Digital Signage"
 subheadline: ""
 
 header:
-    image_fullwidth: telecom-002.jpeg
+    image_fullwidth: digital-signage-005.jpeg
 
 sidebar: false
 #meta_title: # Enter later
