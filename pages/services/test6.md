@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /services/testing
+permalink: /services/general-support
 
-title: "Testing"
+title: "General Support"
 subheadline: ""
 
-#header:
- #   image_fullwidth: telecom-002.jpeg
+header:
+    image_fullwidth: telecom-002.jpeg
 
 sidebar: false
 #meta_title: # Enter later
