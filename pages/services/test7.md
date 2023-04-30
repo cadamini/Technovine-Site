@@ -6,7 +6,7 @@ title: "Point-of-service Solutions"
 subheadline: ""
 
 header:
-    image_fullwidth: telecom-002.jpeg
+    image_fullwidth: pos-005.jpeg
 
 sidebar: false
 #meta_title: # Enter later
