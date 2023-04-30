@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/digital-signage
+permalink: /services/digital-signage /services/testing1
 
 title: "Digital Signage"
 subheadline: ""
