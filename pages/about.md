@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/testing
+permalink: /about
 
 title: "About"
 subheadline: ""
