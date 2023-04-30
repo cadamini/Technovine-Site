@@ -1,5 +1,5 @@
 ---
-layout: /about
+layout: page
 permalink: /services/testing
 
 title: "About"
