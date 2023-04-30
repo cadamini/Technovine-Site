@@ -5,9 +5,9 @@
   url: "/about"
   side: right
 
-- title: "About"
-  url: "/about"
-  side: right
+#- title: "About"
+ # url: "/about"
+ # side: right
 
 - title: "Contact"
   url: "/contact"
