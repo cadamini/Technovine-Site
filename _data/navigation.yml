@@ -33,10 +33,7 @@
       url: "/services/point-of-service"
     - title: "Telecom Services"
       url: "/services/telecom-services"
-    - title: "Testing"
-      url: "/services/testing"
-    - title: "Testing1"
-      url: "/services/testing1"
+
 
 
 
