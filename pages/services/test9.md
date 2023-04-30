@@ -2,7 +2,7 @@
 layout: page
 permalink: /about1
 
-title: "Telecom Services"
+title: "About"
 subheadline: ""
 
 header:
