@@ -6,7 +6,7 @@ title: "General Support"
 subheadline: ""
 
 header:
-    image_fullwidth: telecom-002.jpeg
+    image_fullwidth: general-support-001.jpeg
 
 sidebar: false
 #meta_title: # Enter later
