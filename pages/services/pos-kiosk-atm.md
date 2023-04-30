@@ -1,14 +1,12 @@
 ---
 layout: page
-permalink: /services/testing1
+permalink: /services/point-of-service
 
 title: "Point-of-service Solutions"
 subheadline: ""
 
-
 header:
     image_fullwidth: pos-005.jpeg
-    
 
 sidebar: false
 #meta_title: # Enter later
@@ -44,21 +42,3 @@ To ensure that businesses have the necessary __POS Support__, Technovine Solutio
      width="80%" height="auto"
      style="position: /*left|center|right*/"
      />
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-AI TEXT:
-
-_
-
-
-/-->
