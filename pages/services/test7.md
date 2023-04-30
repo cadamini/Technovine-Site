@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /services/testing1
+permalink: /services/point-of-service
 
-title: "Testing"
+title: "Point-of-service Solutions"
 subheadline: ""
 
 header:
