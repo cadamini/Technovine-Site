@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/services/networking"
+permalink: "/test1"
 
 title: "Networking & Support"
 subheadline: ""
