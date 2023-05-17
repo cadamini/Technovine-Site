@@ -14,3 +14,11 @@ Use the `jekyll serve` command to test locally. This will start a local web serv
 ```bash
 jekyll serve
 ```
+
+### Clearing Build Cache
+
+If you are having issues with the site not updating, try clearing the build cache.
+
+```bash
+jekyll clean
+```
