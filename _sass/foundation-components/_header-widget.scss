@@ -1,10 +1,32 @@
 @import "/assets/fonts/imports.css";
 // @import url(https://raw.githubusercontent.com/NewSpectrum/Technovine-Site/main/_sass/foundation-components/_header-button.scss)
 
-$headr-color: 	hsl(0, 0%, 100%);
-$txt-color: 	hsl(0, 0%, 100%);
-$inner-shadow:	inset 2px 2px 5px hsla(0, 0%, 0%, 0.5);
-$txt-shadow: 	0.5px 0.5px 5px hsla(0, 0%, 0%, 0.5);
+//▸ Widget Properties
+$headr-color: 	hsl(0deg, 0%, 100%);
+$txt-color: 	hsl(0deg, 0%, 100%);
+$inner-shadow:	inset 2px 2px 5px hsla(0deg, 0%, 0%, 0.5);
+$txt-shadow: 	0.5px 0.5px 5px hsla(0deg, 0%, 0%, 0.5);
+
+
+//▸ Button Properties
+$sr-bg:		 		hsl(
+                          18deg,
+					      100%,
+						  62%
+						);
+$button-gr1:		hsl(18deg,
+                          100%, 62%);
+					// #ff773d
+$button-gr2:		hsl(18deg, 80%, 45%);
+					// #cf4e17
+$box-shadow: 		1px 1px 3px hsla(0, 0%, 0%, 50%);
+$text-shadow:		0.5px 0.5px 1.5px hsla(0, 0%, 0%, 50%);
+
+$button-gradient: 	linear-gradient(
+						135deg,
+						$button-gr1 0%,
+						$button-gr2 100%
+					);
 
 
 .header-widget {
@@ -14,7 +36,7 @@ $txt-shadow: 	0.5px 0.5px 5px hsla(0, 0%, 0%, 0.5);
 	margin-left: auto;
 	margin-right: auto;
 	.widget-container {
-	    background-color: hsla(0, 0%, 0%, 0.5);
+	    background-color: hsla(0deg, 0%, 0%, 0.5);
 	    padding: 1rem 2.5rem 2rem 2.5rem;
 	    border-radius: 20px;
 	    backdrop-filter: blur(10px);
@@ -40,4 +62,42 @@ $txt-shadow: 	0.5px 0.5px 5px hsla(0, 0%, 0%, 0.5);
 		}
 	}
 
+}
+
+
+
+
+.service-request {
+	position: relative;
+	max-width: 200px;
+	button {
+		font-family: "Lato", sans-serif;
+		text-shadow: $text-shadow;
+		background: $button-gr1;
+		background: $button-gradient;
+		color: white;
+		border: 0;
+		box-shadow: $box-shadow;
+		border-color: hsla(0, 0%, 0%, 0%);
+		border-radius: 10px;
+		padding: 10px 20px;
+	}
+}
+
+
+.sales-request {
+	position: relative;
+	max-width: 200px;
+	button {
+		font-family: "Lato", sans-serif;
+		text-shadow: $text-shadow;
+		background: $button-gr1;
+		background: $button-gradient;
+		color: white;
+		border: 0;
+		box-shadow: $box-shadow;
+		border-color: hsla(0, 0%, 0%, 0%);
+		border-radius: 10px;
+		padding: 10px 20px;
+	}
 }

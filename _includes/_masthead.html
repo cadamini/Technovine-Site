@@ -51,7 +51,9 @@
 
   <div id="masthead">
     <div class="row">
-		{% include _header-widget.liquid %}
+		{%  if page.header_widget %}
+			{% include _header-widget.liquid %}
+		{% endif %}
       <div class="small-12 columns"><!-- <a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
         </a> -->

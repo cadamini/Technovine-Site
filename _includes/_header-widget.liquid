@@ -1,20 +1,21 @@
-<div class="header-widget">
-		<section id="header-widget" class="widget-container">
-			<div id="sales-widget" class="header-widget">
-				<h1>
-					{{ page.header_widget:title }}
-				</h1>
-				<p>
-					{{ page.header_widget:body }}
-				</p>
-				<!--BUTTON-->
-				<br /><br />
-				<div id="button-container" class="sales-request button">
-					<button id="sales_button" onclick="requestService()">
-						{{ page.header_widget:button_text }}
-					</button>
-				</div>
-			</div>
-		</section>
+<section id="header-widget" class="widget-container">
+	<div id="sales-widget" class="header-widget">
+		{%  if page.header_widget:widget_title %}
+			<h1>
+			{{ page.header_widget:widget_title }}
+			</h1>
+		{% else %}
+			<code>widget_title is not set</code>
+		{% endif %}
+		<p>
+			{{ page.header_widget:body }}
+		</p>
+		<!--BUTTON-->
+		<br /><br />
+		<div id="button-container" class="sales-request button">
+			<button id="sales_button" onclick="requestService()">
+				{{ page.header_widget:button_text }}
+			</button>
+		</div>
 	</div>
-</div>
+</section>

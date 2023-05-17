@@ -10,6 +10,8 @@ title: Technovine Solutions
 
 header:
   image_fullwidth: networking-connections-004.jpeg
+header_widget:
+  button_text: "Request a Quote"
 
 
 widget1:

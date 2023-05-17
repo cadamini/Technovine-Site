@@ -1,7 +1,8 @@
-$sr-bg:		 		hsl(18, 100%, 62%);
-$button-gr1:		hsl(18, 100%, 62%);
+/*
+$sr-bg:		 		hsl(18deg, 100%, 62%);
+$button-gr1:		hsl(18deg, 100%, 62%);
 					// #ff773d
-$button-gr2:		hsl(18, 80%, 45%);
+$button-gr2:		hsl(18deg, 80%, 45%);
 					// #cf4e17
 $box-shadow: 		1px 1px 3px hsla(0, 0%, 0%, 50%);
 $text-shadow:		0.5px 0.5px 1.5px hsla(0, 0%, 0%, 50%);
@@ -12,12 +13,6 @@ $button-gradient: 	linear-gradient(
 						$button-gr2 100%
 					);
 
-$test: hsl(210, 45%, 10%);
-
-
-body {
-	background-color: $test;
-}
 
 .service-request {
 	position: relative;
@@ -53,3 +48,4 @@ body {
 		padding: 10px 20px;
 	}
 }
+*/

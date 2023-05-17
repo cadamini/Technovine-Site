@@ -1,24 +1,16 @@
 
----
+# Technovine Solutions
+
+This is the source repository for the Technovine Solutions website, built by Jekyll and hosted with GitHub Pages.
 
 
 
+## Development
 
-# Notes
+### Testing Locally
 
+Use the `jekyll serve` command to test locally. This will start a local web server at `http://localhost:4000` and will automatically rebuild the site whenever you make changes.
 
-### Full Width Header Size
-```scss
-#title-image-small {
-    height: 240px;
-}
-#title-image-large {
-    height: 520px;
-}
-#title-image-index-small {
-    height: 120px;
-}
-#title-image-index-large {
-    height: 260px;
-}
+```bash
+jekyll serve
 ```

@@ -16,9 +16,9 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color         : hsl(0, 0%, 7%);
+$text-color         : hsl(0deg, 0%, 7%);
 $body-font-color    : $text-color;
-$body-bg            : hsl(0, 0%, 99%);
+$body-bg            : hsl(0deg, 0%, 99%);
 
 
 
@@ -26,13 +26,13 @@ $body-bg            : hsl(0, 0%, 99%);
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : hsl(18, 100%, 62%);	// Dark-Orange
-$ci-3               : hsl(46, 84%, 62%);	// yellow
-$ci-4               : hsl(22, 74%, 57%);	// orange
-$ci-5               : hsl(0, 70%, 58%);		// red
-$ci-6               : hsl(210, 55%, 41%);	// Blue (highlights)
-$ci-2               : hsl(210, 45%, 30%);	// Blue (dark)
-$ci-7 				: hsl(24, 83%, 65%);	// Technovine-Orange
+$ci-1               : hsl(18deg, 100%, 62%);	// Dark-Orange
+$ci-3               : hsl(46deg, 84%, 62%);	// yellow
+$ci-4               : hsl(22deg, 74%, 57%);	// orange
+$ci-5               : hsl(0deg, 70%, 58%);		// red
+$ci-6               : hsl(210deg, 55%, 41%);	// Blue (highlights)
+$ci-2               : hsl(210deg, 45%, 30%);	// Blue (dark)
+$ci-7 				: hsl(24deg, 83%, 65%);	// Technovine-Orange
 
 
 
@@ -52,22 +52,22 @@ $info-color         : $ci-1;
 /* Grey Scale
 ------------------------------------------------------------------- */
 
-$grey-1             : hsl(0, 0%, 89%);
-$grey-2             : hsl(0, 0%, 84%);
+$grey-1             : hsl(0deg, 0%, 89%);
+$grey-2             : hsl(0deg, 0%, 84%);
 $grey-3             : #CBCBCB;
-$grey-4             : hsl(0, 0%, 75%);
-$grey-5             : hsl(0, 0%, 64%);
-$grey-6             : hsl(0, 0%, 59%);
-$grey-7             : hsl(0, 0%, 55%);
-$grey-8             : hsl(0, 0%, 49%);
-$grey-9             : hsl(0, 0%, 39%);
-$grey-10            : hsl(0, 0%, 34%);
-$grey-11            : hsl(0, 0%, 29%);
-$grey-12            : hsl(0, 0%, 24%);
-$grey-13            : hsl(0, 0%, 19%);
-$grey-14            : hsl(0, 0%, 14%);
-$grey-15            : hsl(0, 0%, 9%);
-$grey-16            : hsl(0, 0%, 4%);
+$grey-4             : hsl(0deg, 0%, 75%);
+$grey-5             : hsl(0deg, 0%, 64%);
+$grey-6             : hsl(0deg, 0%, 59%);
+$grey-7             : hsl(0deg, 0%, 55%);
+$grey-8             : hsl(0deg, 0%, 49%);
+$grey-9             : hsl(0deg, 0%, 39%);
+$grey-10            : hsl(0deg, 0%, 34%);
+$grey-11            : hsl(0deg, 0%, 29%);
+$grey-12            : hsl(0deg, 0%, 24%);
+$grey-13            : hsl(0deg, 0%, 19%);
+$grey-14            : hsl(0deg, 0%, 14%);
+$grey-15            : hsl(0deg, 0%, 9%);
+$grey-16            : hsl(0deg, 0%, 4%);
 
 
 
@@ -80,10 +80,10 @@ $topbar-bg          : $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: $ci-6;
 
-$topbar-link-color  : hsl(0, 0%, 100%);
-$topbar-link-color-hover: hsl(0, 0%, 100%);
-$topbar-link-color-active: hsl(0, 0%, 100%);
-$topbar-link-color-active-hover: hsl(0, 0%, 100%);
+$topbar-link-color  : hsl(0deg, 0%, 100%);
+$topbar-link-color-hover: hsl(0deg, 0%, 100%);
+$topbar-link-color-active: hsl(0deg, 0%, 100%);
+$topbar-link-color-active-hover: hsl(0deg, 0%, 100%);
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
@@ -94,13 +94,13 @@ $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: hsl(0, 0%, 100%);
+$topbar-dropdown-link-color: hsl(0deg, 0%, 100%);
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: hsl(0, 0%, 100%);
-$topbar-menu-icon-color: hsl(0, 0%, 100%);
+$topbar-menu-link-color: hsl(0deg, 0%, 100%);
+$topbar-menu-icon-color: hsl(0deg, 0%, 100%);
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 
@@ -110,7 +110,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 ------------------------------------------------------------------- */
 
 $footer-bg          	: $grey-12;
-$footer-color       	: hsl(0, 0%, 100%);
+$footer-color       	: hsl(0deg, 0%, 100%);
 $footer-link-color  	: $ci-7;
 
 
@@ -125,31 +125,31 @@ $subfooter-link-color   : $grey-8;
 
 $code-background-color: scale-color($secondary-color, $lightness: 70%);
 
-$highlight-background: hsl(0, 0%, 100%);
-$highlight-comment: hsl(60, 8%, 57%);
-$highlight-error: hsl(0, 76%, 37%);
-$highlight-comment-special: hsl(0, 0%, 60%);
-$highlight-deleted: hsl(0, 0%, 0%);
-$highlight-error-2: hsl(0, 100%, 33%);
-$highlight-literal-string: hsl(345, 86%, 47%);
-$highlight-literal-number: hsl(180, 100%, 30%);
-$highlight-name-attribut: hsl(180, 100%, 25%);
-$highlight-error-background: hsl(0, 23%, 86%);
-$highlight-generic-deleted: hsl(0, 100%, 93%);
-$highlight-generic-deleted-specific: hsl(0, 100%, 83%);
-$highlight-generic-inserted: hsl(120, 100%, 93%);
-$highlight-generic-inserted-specific: hsl(120, 100%, 83%);
-$highlight-generic-output: hsl(0, 0%, 53%);
-$highlight-generic-prompt: hsl(0, 0%, 33%);
-$highlight-subheading: hsl(0, 0%, 67%);
-$highlight-keyword-type: hsl(225, 33%, 40%);
-$highlight-name-builtin: hsl(195, 100%, 35%);
-$highlight-name-class: hsl(225, 33%, 40%);
-$highlight-name-entity: hsl(300, 100%, 25%);
-$highlight-name-exception: hsl(0, 100%, 30%);
-$highlight-name-function: hsl(0, 100%, 30%);
-$highlight-name-namespace: hsl(0, 0%, 33%);
-$highlight-name-tag: hsl(240, 100%, 25%);
-$highlight-text-whitespace: hsl(0, 0%, 73%);
-$highlight-literal-string-regex: hsl(135, 100%, 30%);
-$highlight-literal-string-symbol: hsl(315, 100%, 30%);
+$highlight-background: hsl(0deg, 0%, 100%);
+$highlight-comment: hsl(60deg, 8%, 57%);
+$highlight-error: hsl(0deg, 76%, 37%);
+$highlight-comment-special: hsl(0deg, 0%, 60%);
+$highlight-deleted: hsl(0deg, 0%, 0%);
+$highlight-error-2: hsl(0deg, 100%, 33%);
+$highlight-literal-string: hsl(345deg, 86%, 47%);
+$highlight-literal-number: hsl(180deg, 100%, 30%);
+$highlight-name-attribut: hsl(180deg, 100%, 25%);
+$highlight-error-background: hsl(0deg, 23%, 86%);
+$highlight-generic-deleted: hsl(0deg, 100%, 93%);
+$highlight-generic-deleted-specific: hsl(0deg, 100%, 83%);
+$highlight-generic-inserted: hsl(120deg, 100%, 93%);
+$highlight-generic-inserted-specific: hsl(120deg, 100%, 83%);
+$highlight-generic-output: hsl(0deg, 0%, 53%);
+$highlight-generic-prompt: hsl(0deg, 0%, 33%);
+$highlight-subheading: hsl(0deg, 0%, 67%);
+$highlight-keyword-type: hsl(225deg, 33%, 40%);
+$highlight-name-builtin: hsl(195deg, 100%, 35%);
+$highlight-name-class: hsl(225deg, 33%, 40%);
+$highlight-name-entity: hsl(300deg, 100%, 25%);
+$highlight-name-exception: hsl(0deg, 100%, 30%);
+$highlight-name-function: hsl(0deg, 100%, 30%);
+$highlight-name-namespace: hsl(0deg, 0%, 33%);
+$highlight-name-tag: hsl(240deg, 100%, 25%);
+$highlight-text-whitespace: hsl(0deg, 0%, 73%);
+$highlight-literal-string-regex: hsl(135deg, 100%, 30%);
+$highlight-literal-string-symbol: hsl(315deg, 100%, 30%);
