@@ -11,7 +11,11 @@ title: Technovine Solutions
 header:
   image_fullwidth: networking-connections-004.jpeg
 header_widget:
+  widget_title: "Service Request"
+  widget_text: |
+    Request a quote for services.
   button_text: "Request a Quote"
+  button_url: "/contact"
 
 
 widget1:

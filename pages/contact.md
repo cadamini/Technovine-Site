@@ -28,7 +28,8 @@ widget1:
   title: "Contact Information"
   url: ''
   image: 
-  text: '<h4>Phone</h4> (713) 491-4415<br /> <h4>Email</h4> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li> <li>repairs@technvsolutions.com</li> </ul>' # HTML Code
+  text: '<h4>Phone</h4> (281) 912-6361<br /> <h4>Email</h4> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li> <li>repairs@technvsolutions.com</li> </ul>' # HTML Code
+  # question proper phone number format
 
 widget2:
   title: "Find us on Social Media"

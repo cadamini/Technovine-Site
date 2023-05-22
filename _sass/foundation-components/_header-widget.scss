@@ -2,10 +2,12 @@
 // @import url(https://raw.githubusercontent.com/NewSpectrum/Technovine-Site/main/_sass/foundation-components/_header-button.scss)
 
 //▸ Widget Properties
-$headr-color: 	hsl(0deg, 0%, 100%);
-$txt-color: 	hsl(0deg, 0%, 100%);
-$inner-shadow:	inset 2px 2px 5px hsla(0deg, 0%, 0%, 0.5);
-$txt-shadow: 	0.5px 0.5px 5px hsla(0deg, 0%, 0%, 0.5);
+$header-color:	 	hsl(0deg, 0%, 100%);
+$txt-color: 		hsl(0deg, 0%, 100%);
+$inner-shadow:		inset 2px 2px 5px hsla(0deg, 0%, 0%, 0.5);
+$txt-shadow: 		0.5px 0.5px 5px hsla(0deg, 0%, 0%, 0.5);
+$widget-bg-color:	hsla(0deg, 0%, 0%, 0.5);
+$widget-padding:	1rem 2.5rem 2rem 2.5rem;
 
 
 //▸ Button Properties
@@ -14,6 +16,7 @@ $sr-bg:		 		hsl(
 					      100%,
 						  62%
 						);
+$button-text:		hsl(0deg, 0%, 100%);
 $button-gr1:		hsl(18deg,
                           100%, 62%);
 					// #ff773d
@@ -31,17 +34,17 @@ $button-gradient: 	linear-gradient(
 
 .header-widget {
 	position: relative;
-	align-items: center;
+	align-items: left;
 	max-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
+
 	.widget-container {
-	    background-color: hsla(0deg, 0%, 0%, 0.5);
-	    padding: 1rem 2.5rem 2rem 2.5rem;
+	    background-color: $widget-bg-color;
+	    padding: $widget-padding;
 	    border-radius: 20px;
 	    backdrop-filter: blur(10px);
 	    -webkit-backdrop-filter: blur(10px);
-
 		box-shadow: $inner-shadow;
 
 		h1,
@@ -51,7 +54,7 @@ $button-gradient: 	linear-gradient(
 		h5,
 		h6 {
 			font-family: "Libre Baskerville", serif;
-			color: white;
+			color: $header-color;
 		}
 
 
@@ -67,37 +70,20 @@ $button-gradient: 	linear-gradient(
 
 
 
-.service-request {
+.button-container {
 	position: relative;
 	max-width: 200px;
-	button {
-		font-family: "Lato", sans-serif;
-		text-shadow: $text-shadow;
-		background: $button-gr1;
-		background: $button-gradient;
-		color: white;
-		border: 0;
-		box-shadow: $box-shadow;
-		border-color: hsla(0, 0%, 0%, 0%);
-		border-radius: 10px;
-		padding: 10px 20px;
-	}
-}
-
-
-.sales-request {
-	position: relative;
-	max-width: 200px;
-	button {
-		font-family: "Lato", sans-serif;
-		text-shadow: $text-shadow;
-		background: $button-gr1;
-		background: $button-gradient;
-		color: white;
-		border: 0;
-		box-shadow: $box-shadow;
-		border-color: hsla(0, 0%, 0%, 0%);
-		border-radius: 10px;
-		padding: 10px 20px;
+	font-family: "Lato", sans-serif;
+	text-shadow: $text-shadow;
+	background: $button-gradient;
+	color: $button-text;
+	border: 0;
+	box-shadow: $box-shadow;
+	border-color: hsla(0, 0%, 0%, 0%);
+	border-radius: 20px;
+	padding: 10px 20px;
+	a {
+		color: inherit;
+		text-decoration: none;
 	}
 }
