@@ -8,8 +8,8 @@ layout: frontpage
 permalink: /index.html
 title: Technovine Solutions
 
-# header:
-#   image_fullwidth: networking-connections-004.jpeg
+header:
+  image_fullwidth: networking-connections-004.jpeg
 # header_widget:
 #   widget_title: "Worry-Free Professional IT Services"
 #   widget_text: |
