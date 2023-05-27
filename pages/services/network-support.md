@@ -5,15 +5,15 @@ permalink: "/services/networking"
 title: "Networking & Support"
 subheadline: ""
 
-header:
-  image_fullwidth: networking-connections-009.jpeg
+# header:
+#   image_fullwidth: networking-connections-009.jpeg
 
-header_widget:
-  - title: WE will See
-  - body: whatever Text
-# New Line
-  - button_text: Get&nbsp;Quote
-#   - button_link:
+# header_widget:
+#   - title: WE will See
+#   - body: whatever Text
+# # New Line
+#   - button_text: Get&nbsp;Quote
+# #   - button_link:
 
 sidebar: false
 #meta_title: # Enter later

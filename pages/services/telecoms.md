@@ -32,7 +32,11 @@ It is widely known that communication is a key component to any successful busin
 This is why when parts of your __Telecom__ infrastructure go astray you must enlist the help of experts who have the right equipment and knowledge to address your problem. Technovine Solutions has both the knowledge and expertise to solve any obstacle your __Telecom__ network may encounter.
 
 <!-- "telecom network has an error on website" -->
+
+
 {% include _dropdowns/telecoms.html %}
+
+
 <!-- <details style="cursor:pointer">
 <summary><h3 style="display:inline">&#9656; What does <a href="URL">Telecom Support</a> involve?</h3></summary>
 
