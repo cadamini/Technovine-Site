@@ -10,12 +10,12 @@ title: Technovine Solutions
 
 header:
   image_fullwidth: networking-connections-004.jpeg
-# header_widget:
-#   widget_title: "Worry-Free Professional IT Services"
-#   widget_text: |
-#     No need to worry about amateur service. Get the IT professionals your business needs.
-#   button_text: "Request a Quote"
-#   button_url: "/contact"
+header_widget:
+  widget_title: "Worry-Free Professional IT Services"
+  widget_text: |
+    No need to worry about amateur service. Get the IT professionals your business needs.
+  button_text: "Request a Quote"
+  button_url: "/contact"
 
 
 widget1:
